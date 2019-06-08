@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"  standalone="yes"?>
+<NewDataSet>
+    <Table>
+        <FIELD_TYPE>micro</FIELD_TYPE>
+        <FIELD_NAME>姓名</FIELD_NAME>
+        <FIELD_CODE></FIELD_CODE>
+        <FIELD_CODE_SYSTEM></FIELD_CODE_SYSTEM>
+        <FIELD_LAYERNO></FIELD_LAYERNO>
+        <FIELD_TEXT>王风兰</FIELD_TEXT>
+        <FIELD_ITEMS></FIELD_ITEMS>
+        <FIELD_VALUES></FIELD_VALUES>
+        <FIELD_CODES></FIELD_CODES>
+        <FIELD_GROUPS></FIELD_GROUPS>
+        <FIELD_VALUE></FIELD_VALUE>
+        <FIELD_PATH>姓名</FIELD_PATH>
+    </Table>
+    <Table>
+        <FIELD_TYPE>micro</FIELD_TYPE>
+        <FIELD_NAME>住院号</FIELD_NAME>
+        <FIELD_CODE></FIELD_CODE>
+        <FIELD_CODE_SYSTEM></FIELD_CODE_SYSTEM>
+        <FIELD_LAYERNO></FIELD_LAYERNO>
+        <FIELD_TEXT>0001520025</FIELD_TEXT>
+        <FIELD_ITEMS></FIELD_ITEMS>
+        <FIELD_VALUES></FIELD_VALUES>
+        <FIELD_CODES></FIELD_CODES>
+        <FIELD_GROUPS></FIELD_GROUPS>
+        <FIELD_VALUE></FIELD_VALUE>
+        <FIELD_PATH>住院号</FIELD_PATH>
+    </Table>
+</NewDataSet>

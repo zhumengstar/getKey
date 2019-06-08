@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?><!-- ======================================================================== --><!-- This file is an Electric Patient Record.                                 --><!-- Created by EPRPad v3.0 Serial,Copyright (c) 2006 陈联忠.                 --><!-- More information about EPRPad is available at http://www.EprExpert.com/  --><!-- You should not edit this file by hand.                                   --><!-- ======================================================================== -->
+<epr props="doc-type:normal" name="" code="" id="" default-font-name="宋体" default-font-size="16" default-line-span="10">
+    <pagesize pagetype="A4" orientation="portrait" width="210" height="297" margin-top="38" margin-bottom="15"
+              margin-left="15" margin-right="15" margin-header="18.0" margin-footer="0.0" margin-bind="0.0"
+              double-face="true" header-style="0" draw-shading-type="0" bind-position="0" page-scale="1.000000"
+              units="mm" page-start-number="1"/>
+    <section name="">
+<!--        <micro Hospital="西 安 交 通 大 学 第 一 附 属 医 院" 出生地="陕西省西安市" 科室="先心周围血管科"-->
+<!--        0000832219="" 性别="女" 住院号="0001080003" 001-01="" 病区="病区" 职业="职员" 年龄="53岁" SubTitle="病 程 记 录" 床号="8056040"-->
+<!--        入院情况="入院情况" 记录日期="2013-07-03" 姓名="范建梅"/>-->
+        <revisions>
+            <r ID="1" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-02 15:31:48"
+               terminal="干部楼6病区147114"/>
+            <r ID="2" authorization="0" FragmentID="3" name="胡志" code="002749" time="2013-07-02 18:16:46"
+               terminal="干部楼5病区147113"/>
+            <r ID="3" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-03 08:03:57"
+               terminal="bbbbb1198765321"/>
+            <r ID="4" authorization="0" FragmentID="4" name="胡志" code="002749" time="2013-07-03 08:34:37"
+               terminal="干部楼5医办147111"/>
+            <r ID="5" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-03 08:35:49"
+               terminal="干部楼5医办147111"/>
+            <r ID="6" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-03 08:40:35"
+               terminal="干部楼5医办147111"/>
+            <r ID="7" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-03 08:40:52"
+               terminal="干部楼5医办147111"/>
+            <r ID="8" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-03 08:45:03"
+               terminal="干部楼5医办147111"/>
+            <r ID="9" authorization="0" FragmentID="3" name="胡志" code="002749" time="2013-07-03 08:46:30"
+               terminal="干部楼5医办147111"/>
+            <r ID="10" authorization="0" FragmentID="6" name="胡志" code="002749" time="2013-07-03 08:46:57"
+               terminal="干部楼5医办147111"/>
+            <r ID="11" authorization="0" FragmentID="6" name="胡志" code="002749" time="2013-07-03 11:06:12"
+               terminal="干部楼6病区147114"/>
+            <r ID="12" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-03 16:46:48"
+               terminal="干部楼5医办147111"/>
+            <r ID="13" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-03 16:48:13"
+               terminal="干部楼5医办147111"/>
+            <r ID="14" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-04 10:34:12"
+               terminal="干部楼6病区147114"/>
+            <r ID="15" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-05 11:50:39"
+               terminal="干部楼6病区147114"/>
+            <r ID="16" authorization="0" FragmentID="9" name="胡志" code="002749" time="2013-07-05 11:51:05"
+               terminal="干部楼6病区147114"/>
+            <r ID="17" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-06 11:04:18"
+               terminal="干部楼6病区147114"/>
+            <r ID="18" authorization="0" FragmentID="8" name="胡志" code="002749" time="2013-07-07 11:29:29"
+               terminal="干部6医办116"/>
+            <r ID="19" authorization="0" FragmentID="9" name="胡志" code="002749" time="2013-07-07 11:37:53"
+               terminal="干部6医办116"/>
+            <r ID="20" authorization="0" FragmentID="10" name="胡志" code="002749" time="2013-07-07 11:38:47"
+               terminal="干部6医办116"/>
+            <r ID="21" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-07 11:41:03"
+               terminal="干部6医办116"/>
+            <r ID="22" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-07 11:44:56"
+               terminal="干部6医办116"/>
+            <r ID="23" authorization="0" FragmentID="10" name="胡志" code="002749" time="2013-07-07 11:45:24"
+               terminal="干部6医办116"/>
+            <r ID="24" authorization="0" FragmentID="11" name="胡志" code="002749" time="2013-07-07 11:45:51"
+               terminal="干部6医办116"/>
+            <r ID="25" authorization="0" FragmentID="10" name="胡志" code="002749" time="2013-07-07 11:46:07"
+               terminal="干部6医办116"/>
+            <r ID="26" authorization="0" FragmentID="9" name="胡志" code="002749" time="2013-07-07 11:46:33"
+               terminal="干部6医办116"/>
+            <r ID="27" authorization="0" FragmentID="11" name="胡志" code="002749" time="2013-07-07 14:59:57"
+               terminal="干部6医办116"/>
+            <r ID="28" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-07 15:00:18"
+               terminal="干部6医办116"/>
+            <r ID="29" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-07 15:02:23"
+               terminal="干部6医办116"/>
+            <r ID="30" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-07 15:02:56"
+               terminal="干部6医办116"/>
+            <r ID="31" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-07 15:08:16"
+               terminal="干部6医办116"/>
+            <r ID="32" authorization="0" FragmentID="13" name="胡志" code="002749" time="2013-07-07 15:09:56"
+               terminal="干部6医办116"/>
+            <r ID="33" authorization="0" FragmentID="9" name="胡志" code="002749" time="2013-07-11 11:28:40"
+               terminal="干部楼医办-147117"/>
+            <r ID="34" authorization="0" FragmentID="9" name="胡志" code="002749" time="2013-07-11 11:29:12"
+               terminal="干部楼医办-147117"/>
+            <r ID="35" authorization="0" FragmentID="10" name="胡志" code="002749" time="2013-07-11 11:38:35"
+               terminal="干部楼医办-147117"/>
+            <r ID="36" authorization="0" FragmentID="9" name="胡志" code="002749" time="2013-07-11 11:42:18"
+               terminal="干部楼医办-147117"/>
+            <r ID="37" authorization="0" FragmentID="11" name="胡志" code="002749" time="2013-07-11 11:44:31"
+               terminal="干部楼医办-147117"/>
+            <r ID="38" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-11 11:44:50"
+               terminal="干部楼医办-147117"/>
+            <r ID="39" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-11 11:55:28"
+               terminal="干部楼医办-147117"/>
+            <r ID="40" authorization="0" FragmentID="6" name="胡志" code="002749" time="2013-07-11 13:51:46"
+               terminal="干部楼6病区147114"/>
+            <r ID="41" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-11 14:16:15"
+               terminal="干部楼6病区147114"/>
+            <r ID="42" authorization="0" FragmentID="0" name="胡志" code="002749" time="2013-07-11 14:17:29"
+               terminal="干部楼6病区147114"/>
+            <r ID="43" authorization="0" FragmentID="8" name="胡志" code="002749" time="2013-07-11 14:20:14"
+               terminal="干部楼6病区147114"/>
+            <r ID="44" authorization="0" FragmentID="9" name="胡志" code="002749" time="2013-07-11 14:43:01"
+               terminal="干部楼6病区147114"/>
+            <r ID="45" authorization="0" FragmentID="10" name="胡志" code="002749" time="2013-07-11 14:45:36"
+               terminal="干部楼6病区147114"/>
+            <r ID="46" authorization="2" FragmentID="4" name="张全发" code="006715" time="2013-07-11 14:46:36"
+               terminal="干部楼6病区147114"/>
+            <r ID="47" authorization="0" FragmentID="4" name="张全发" code="006715" time="2013-07-11 14:46:40"
+               terminal="干部楼6病区147114"/>
+            <r ID="48" authorization="2" FragmentID="4" name="张全发" code="006715" time="2013-07-11 14:46:40"
+               terminal="干部楼6病区147114"/>
+            <r ID="49" authorization="2" FragmentID="9" name="张全发" code="006715" time="2013-07-11 14:46:51"
+               terminal="干部楼6病区147114"/>
+            <r ID="50" authorization="0" FragmentID="9" name="张全发" code="006715" time="2013-07-11 14:46:54"
+               terminal="干部楼6病区147114"/>
+            <r ID="51" authorization="2" FragmentID="9" name="张全发" code="006715" time="2013-07-11 14:46:54"
+               terminal="干部楼6病区147114"/>
+            <r ID="52" authorization="2" FragmentID="11" name="张玉顺" code="002708" time="2013-07-11 14:47:54"
+               terminal="干部楼6病区147114"/>
+            <r ID="53" authorization="0" FragmentID="11" name="张玉顺" code="002708" time="2013-07-11 14:47:59"
+               terminal="干部楼6病区147114"/>
+            <r ID="54" authorization="2" FragmentID="11" name="张玉顺" code="002708" time="2013-07-11 14:47:59"
+               terminal="干部楼6病区147114"/>
+        </revisions>
+        <sectionversions></sectionversions>
+        <sectionauthors></sectionauthors>
+        <fixheader header-line="fasle">
+            <table props="table-column-widths:120mm/464mm/40mm; table-row-heights:26mm/30mm; cell-counts:5; border-width:1; cell-span:5"
+                   name="" code="" codeSystem="" table-align="center">
+                <cell props="left-attach:0; right-attach:1; top-attach:0; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0"
+                       fix-height="10"><image mime-type="image/bmp" base64="yes" file="jdyfy.bmp" base64-size="20084"
+                                              draw-mark-count="0" height="67" width="74" show-height="67"
+                                              show-width="74" file-size="15062" name="" code="" codeSystem=""/>
+                        Qk3WOgAAAAAAADYAAAAoAAAASgAAAEMAAAABABgAAAAAAKA6AAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////n48vz8+f///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////6OPI5d/A9vTq////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////f2bHd16/o5cz////////////////////////////////////////////////////////////////////4+vXf6NL///////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////Px48vBhL+yZNzXsP///////////////////////////////////////////////////////////////////+/06b/SpP///////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////5d++s6VMppQVtKtU////5OLE9/fu/////////////////////////////////////////////////P370Ny54OjTus6e3+nT+/36////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////n4sOxokWcjAyfkiHo5czV0aHx8eP////////////////////////////////////////////////z9u2huXTM2rWCp06PtGby9+7///////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////+fiwberXZ2NE5uMCbixYM3IkeTixdzbuP7+/f////////////////////////////////7+/vb48e/z5qi/f7rOm3inOZq5c/7//v///////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////5N67tKZSnY8XlocGpZo0sapY4uDB0M6e/Pz5////////////////////////////////+fr11d6+1uHAkK1dnbhzdaM3n716////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////p5MipmTKbiw+VhweilyepokvKyJLk48n////////////////////////3+PH7/Pr////19+7L162+z52HqE2Dp0lzoDWOsWL4+vb///////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////+7q1p+MFZmIBpWHCKCVKK+pV5eRFbq4bvf37/7+/f///////////////9HXr+bq1c7Wrezw4LXFipCrV3qfNnadNnOgN4SsV/X48f///////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////9PLlpJAdmYgGlocJm48cpZ4+lI4Np6VI1dWt/f37/////////////v7+19y75urVmqtV5OnUk6tWg6M/dZowdJw0dKE4psOF/v/+////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////x7t6hjxmaiAeWiAuViQyTiQ6Riw+YlSSvrVz39+/////////////////3+PLy9OqVqE2vv32Opk2FpER1mzB0nDV0ojm+06X///////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////+zo0KCNFJmIB5aIC5WJDZOKDpGKD56bMpeYMejo0P////////////P06sLKlbfChYedN4ulPYGdNX+eO3WbMnSdNHWiOLbOmv///////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////+/r0rJw0mokGlogLlYkNk4oPkYoPmZcrlZYo3N269PTq8/Pp////4+fQxs2cmKlRhZsugZwzgp45fp45dpsydJ00dKE5w9as////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////+/fy0pUebigaWiAuViQ2Tig+SjBGPixGQkBjIyJfl58/Mz6Dv8OH8/fv////I0KKCmil9lymUqld8nTZ1mzF0nTR0oDjJ2rT///////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////X06aeWKZqIBpaIC5WJDZOKD5KMEY+ME5CQG66vaLm7eo6XJ7W7ePb38NrfwLvGjIGZKX6YKoiiQ3ucNHabMXSdNHWhOcHVqf////j69vT48fX58+3z6eXu4dfo0ufy5fz++////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////9vXsr545m4oHlogLlYkNk4oPkowRj4wUjo4Ymp06lJozjpchs7hz2N28nqpYj6FBf5cofZcqepkseZovdZsyc500c585yNq0////9fjy8Pbs8vbu3ejXy9vDsNCnpMmct9a0wdy/1OjU4/Hk9fr16PPr5/Pq////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////CtmiejAeWiAuViQ2Tig+SjBGPjBSOjRaTlSmWmzWLlB+stGrd4sfb38Cqt22Cmih9mCp7mS14mi92mzJ0nTRznTnW48f////////////6/Pn09/Hl8OHi7d7V4tK81bnF4MO41bmZypyazqCn1K6d0Keh1a7F58////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////8O3a56MB5aIC5WJDZOKD5KMEY+MFI2NFpudPI6TJomRHpqjRcLJk/b38Ke1aYKbKH2YKnqYLHmaMHabMnSeNX+nSNDfvv////////////7+/vb59e727eHu3tvo2MTbw7XWsr3YvZ/Pop3RonTBgVq8b2zGg3HCibXhxPr9+////////////////////wAA//////////////////////////////////////////////////79////////////////////////////////////////////////////////0MeNnYsJl4gLlYkNk4oPkowRj4wUjo0WjpEfi5EfiZEgkZwulKFA7e/fkaNEgZkpfZcqepgseZowdpsyd6E2sMmO/v79/////////////////////////f789vn17vTt0OPOw9vCnsyhjcWTc7+AVLRpTbRoZMGAbMSKl9eu+/38////////////////AAD////////////////////////////////////////8+PPVtHfHnkziz6j////////////////////////////////////////////////////Z0qSaiQmXiAuViQ2Tig+SjBGPjRSOjReLjxqJjxyOlSijq1OXo0ba3sGLnjmAlyd9mCp6mCx5mjB2mzJ2nzbF1av////////////////////////////////////////Q5tCQx5KSy5V5voBnuHVUtWprvoBMtmtUvXhqx4yc2rX///////////////8AAP////////////////////////////////Pp2N/GmsWYRrZ3Arh7ALN+E+HOpPXv4v///////////////////////////////////////////9vUppqJCJeIC5WJDZOKD5KMEY+NFI6NF4yPG4mOG4+XLb/FiZGeO663d4aZMX6WJn2YKnqYLHmaMHecMneeOuPq1////////////////////////////////////////9Po0q/Wr4zFkWm3c163bUuyYV65dWW+gDiyYmHDhWDBiMrs2P///////////wAA////////////////////////+/jz2LiCu4Efs3QCt3YAsHMArnQAsHcArXkDuI0oyatg6d3A/fz6////////////////////////////////5eDAmYkMl4gKlYkNk4oPkowRj40Ujo0XjI8biY4bk5o01dmxjZoymaZOg5cqf5YofZgqepgseZowd5wyeZ876O7f////////////////////////////////////////////////5fLlpdOsZsB1SbJgR7JiXLt5XL19PbZqa8qSdM2b////////////AAD////////////////////48+rMn1i6dAK3cgCycgCwcgCvcwCudACtdQCueACxfACyfwGwhx2/nkfk2LX////////////////////////////k372aiAyXiQqViQ2Tig+SjBGPjRSOjReMjxuHjBeSmjPY3LeJliuClCOBlCV/lih9mCp6mCx5mjB2nDJ1njfW4sT////////////////////////////////////////////////////4+fe3271iuXRFsmFBs2Nlv4M+t2tMvXlVw4T6/fz///////8AAP////////////////v49MubU7xyAbRwALFwALBxALByAK9zAK50AK11AKx3AKt4AKl5AKx9ALCCALGMItC8e+zmzv///////////////////9bOnJyKCZeICpWJDZOKD5KMEY+NFI6NF4uNGZGVKp+lSuPmzIyZMIGTIYGVJn+WKH2YKnqYLHmaMHabMnSdNszbt/////////////////////////////////////////////////////////v9+7XcvVy6dD6yYUe2bUq6dDq3bFjIiOj37v///////wAA////////////+vbw0KRkum8CtW0As28AsXAAsHEAsHIAr3MArnQArXUArHcAq3gAqXkAqHoApnsAqH8ArIQBro0g3c+h+ffv////////////7urWopIimIoJlYkNk4oPkowRj40UjY0VkZMkwsaMpKpT6OrUjJkugpMhgZUnf5YofZgqepgseZowd50yfKNB7vPn////////////////////////////////////////////////////////////5fPoeMKLQLRjQLVoTrt2NbZpPMB11fHi////////AAD////////////SpWe8bwG2bAC0bQCzbwCxcACwcQCwcgCvcwCudACtdQCsdwCreACpeQCoegCmewCmfAClfgCnggCigQO1nDrIuXHn4cP///////+uokGZiwmViQ2Tig+SjBGPjRSNjBWTlijf4cLHy5bZ3bmMmTB+jxqAlSZ/lih9mCp6mCx5mjB3nTJ9o0Lp7+D////////////////////////////////////////////////////////////w+PFzwIZAtGM8tGU5tWg1tmkzvm/S8OD///////8AAP////////HizrhwDLhsALRsALRtALNvALFwALBxALByAK9zAK50AK11AKx3AKt4AKl5AKh6AKZ7AKV8AKR9AKJ/AKKBAKWFAKeIAKWMFMCxYNjQoaOVJZeJCZWJDZOKD5KMEY+MFI6OF4uOGKmtWdfatN/jxtXasqazYoGWJ36WJ32YKnqYLHmaMHacMnWeN+Dp0////////////////////////////////////////////////////////////87m02K9ej+zYj2zZj62azS2aUjBfdXx4v///////wAA////////4sWfvG0CtmsAtWwAtG0As28AsXAAsHEAsHIAr3MArnQArXUArHcAq3gAqXkAqHoApnsApXwApH0Aon8AoIAAn4AAn4IAoYYAoooDnIgHmogKl4gKlYkNk4oPkowRj4wUjo4Xi48agYgNlZw33eHA1Nmy9PbukqNEfJUkfZgqepgseZowd50xgadI7fLn////////////////////////////////////////////////////////v+LFdMGFS7VmP7NiRLZrQrhuNrdrUcCA+P36////////AAD////////t2L+4bgm7bgG7cAG8cQC2cQCycACwcQCwcgCvcwCudACtdQCsdwCreACpeQCoegCmewClfACkfQCifwCggACfgACfggCdhAGbgwObhgWYhwaWiAuViQ2Tig+SjBGPjRSOjReJixWSmC+1uXLs793V2rTu8eKOoD19lSV9mCp6mCx4mS6EqEOqwoP+/v7////////////////////////////////////////////////+/v7G48pounVMtWNDsF8/smJEtmo+t2s7u29px5H///////////8AAP////////78+ubNrN+/k9audMmXSLRzCrh0ALFxALByAK9zAK50AK11AKx3AKt4AKl5AKh6AKZ7AKV8AKR9AKJ/AKCAAJ+AAJ+CAJ2EAZuDA5qFBpiHB5aIC5WJDZOKD5KMEY+MFIyLFKOlSObnz+Xo0O7x4b7GipyqUoCUJH+WKH2YKnuYLXibLpWyYt7m0P///////////////////////////////////////////////+by5qrUrWq6clC0YEewXkSxYECzYzy0Zji1Zzm7bZrbtf///////////wAA/////////////////////////fr36da4x5tQtnQCtHQAsHMArnQArXYArXcArnkAqnkAqHoApnsApXwApH0Aon8AoIAAn4AAn4IAnYQBm4MDmoUGmIcHlogLlYkNk4oPkowRj4wTjYwV19ix+vr2ub577/HilKFAfI0XgZUmf5YofZgqepgsfKAwscWL////////////////////////////////////////////3+vexNvBgL6AXrZkULFbSa5bSLBfRLFgQLNjPbRlOrZqRLt02PHi////////////AAD////////////////////////////////8+PPavYy3fRa3eAGzdwCudgCueAOtfguufAGoegCmewClfACkfQCifwCggACfgACfggCdhAGbgwOahQaYhweWiAuViQ2Tig+SjBGPjBONjBXT06j+/v7M0J7b376ZpUd+jxt8kR9+lSd9mCp7mSx7nTCZtGjK2rPO3brR4MDP3r7S4sXa6dHN4cLA2rWjy5S72bLP5ct6uHNuvGtWsFhPrVZNrlhKr1xIsF9EsWBAsmM+tGZJv3VyyJT2+/j///////////8AAP///////////////////////////////////////+nZutS0er2OMLR7AraIJeXWs8ywa6h7AqZ7AKV8AKR9AKJ/AKCAAJ+AAJ+CAJ2EAZuDA5qFBpiHB5aIC5WJDZOKD5KMEY+MFIyME52fPd7gwPv7+PDx4+Xo0MjQn5yrVH2VJXyXKXqZLHmaMHacMnefNnSgOXCfOm6hPmuhP2+lR2ajQ2WoRmauTGOqT2SsVleqTlOqT1KrVVCtV06uWUqvXEiwX0SyYT+yYka7bmrDi9Lt3P///////////////wAA////////////////////////////////////////////////9u/i28OR4tGr////6t/GqHwGp3wApXwApH0Aon8AoIAAn4AAn4IAnYQBm4MDmoUGmIcHlogLlYkNk4oPkowRj4wUjo4XiYwVj5Qntrt14+XK4eXK9PXr8/XrrLt0epYmepkseZowdpwydZ00c6A3cKA5bqI8a6M/aqVAZqZCZKdEYKZIX6lKXqtNWalQVqtSU6tVUK1XTq5ZSq9cRrBdQ7FgRLpoWb98z+va////////////////////AAD////////////////////////////////////////////////////////////////y7d6pfQqpfQClfACkfQCifwCggACjgwCniAChhwCbhAKahQWYhweWiAuViQ2Tig+SjBGQjRSOjRaIjBR+hQihp0vv8OCapUmirlv////h5s1+mCt6mSt5mjB2mzJ0nDRynjdvnjltoDxqoT5ooj9lpEFjpURgpkhfp0pcqExZqVBWq1JTq1VQrVdNrllJr1tLs2FOu2prwoXJ59P///////////////////////8AAP////////////////////////////////////////////////////////////////z798GkUK6BAqqAAKV+AKR/AKeFAKuQH8CsWq+aMZyFBJqFA5iHB5WHCJWJDZOKD5KMEY+LEoqKD5aZL6itWb7Bgvb378rRoN3ixP///8jSo3uWJ3qZLHmaMHabMnScNHKeN2+eOW2gPGqhPmiiP2WkQWOlRGCmSF+nSlyoTFmpUFasUlOsVU2tVFC0XFe4aGG8dHfFi9zw4v///////////////////////////wAA////////////////////////////////////////////////////////////////////+fbv072Bso4iqoMCqIQEtp0559/A////z8OFrJYirJw0mYgJnI8blYkOk4oPkYsQj4wUublw7u7d/f375ujQ8/Xq4eXK6u3byNKhip87e5YnepgteZowdpsydJw0cp43b545baA8aqE+aKI/ZaRBYqVEYaZIXqdJW6dLWKlPVq1SWbFbaLhtlM2bu97BqNey1u3c////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////u6NTYyJXbzp/m3r3////////d1amvnjiolSWhjw6xpkeXixGTig6PiQynpEX6+vbw8OG8v3/BxYr4+fOps2WKmjF/lCN8lCR9mCp6mCx5mjB2mzJ0nDRynjdvnjltoDxpoT1koTtioz5hpUJkrUlkrk9jsFRhs1iIw4W93r693L/v9vD////6/fr+//////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////v////////////Lv3tfPnq2gO6WYLZWJD5OKD46ICrOxXv///7i6dHmBAKyxYf39+6CsVXyNF36TIn+WKH2YKnqYLHmaMHabMnScNHKeN2+eOG2gO3GmRoKzYI2+cnavXIa7cpnDjZTDionBg9Ln0P////////v9+////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////9vXr5uPGn5QllIwOkYoOmpcp6urT5efPn6RHrbJj9fbtn6tTe4wVfpIheZIffJcoe5kteJkvdp0zeaM2d6Y4dac8caU9dqlNssyg2OTRttKp8Pbt+Pr37fTr8/ny/v7+////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////5+fKjly6VjA6SixKNihChoT7a27br7Nnd37/f4sTDypXDy5TM1Kesu3SBmzJ6mCx6nDCWs2SsxIigvXijwYGzzZnN377w9ez////7/Pr///////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////j38aOaMpWND5KMEY+MFIqKEI2QHqKmS8fLleTnztbbt+bp0vX37tzjxY6nSXiYKXyfMbHGi////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+/r2pp03l40PkowRj4wUjo4Xio0XgogOsbZs+Pn0pa9eiJgtk6NEiZ44fpgsepksfJ8xuMuV////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+/v21rViXjQ6SjBGPjRSOjheMjxqFixS1unT///+stmp7jRZ9kR98lCN9lyl6mSx8nzG/0KD///////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7qyYpeODpKMEI+NFI6OF4qOGJGWK9vevP///9XatIeYLICUJX+WKH2YKnuZLXydMczas////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////taxYmI4OkowQj40Ujo4XiYwVpKdO/////////P36lqVHfpMif5cofZgqe5kteZsx1+HD////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////v7JxIedkxCVjhCQjhSOjheLjRmSlyzT167w8uTM06WImC2AlCR/lih9lyp7mS15mzDV4MH///////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Tz5rq1aZiSHpGPFI6OFoyPG4mOG4yUJpSfPIeUJ4KTI4GVJ3+WKH2YKnuaLXmZMNzly////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////5OPGtbVokZEYjI8bio8dh48ego8bg5Agg5QkgZUnf5YofZgqfZwuk6tY9ffw////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////a2rORkRqMjxuKjx2JkSGGkiKFkiODlCSBlSd/lih+mSp8mi7a4sb///////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9nYr5CPGIyPG4qPHYmRIYaSIoWSI4OUJIGVJ3+WKH2aKrTEif7+/v///////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////6OfPkZEdjpEbio8diZEhhpIihZIjg5QkgZUngZkojaRH9vjw////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////t7Nqopk6PkSGLkR2IkSCGkiKFkiODlCSClSeGnyq4xoz///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9nYstfXsJufPo2THoiRIIaSIoWSI4SVJIecKZaqUOvv3v///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////3dy63t69ycqVur56jJQihpIhhpMjhZcnsLx46u7c////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////v/+/v7+/v7m59CMlCaIlCKHlCOPnjr09e3///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////T065ykR4mVI4aUI4eXK+Lnzf///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+vr26evXuL99h5UjhZYm1927////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8/PvP0qeJmCSLmzbv8eX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////87Tp4qaJaKuXfv8+P///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////zNGktr998PLm/v7+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////HzJnj5Mz///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+vs2/r69f///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAA=
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:2; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0"
+                       fix-height="13">
+                        <c props="text-type:micro; font-weight:bold; font-decoration:underline; font-underlinetype:0; font-family:宋体; font-size:-18"
+                           name="Hospital" code="" codeSystem="">西 安 交 通 大 学 第 一 附 属 医 院
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:3; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:2; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0"
+                       fix-height="15">
+                        <c props="text-type:micro; font-weight:bold; font-family:宋体; font-size:-21" name="SubTitle"
+                           code="" codeSystem="">病 程 记 录
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:3; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+            </table>
+        </fixheader>
+        <header>
+            <table props="table-column-widths:142mm/88mm/186mm/116mm/148mm; table-row-heights:21mm; cell-counts:1; border-width:1; cell-span:0"
+                   name="" code="" codeSystem="" table-align="left">
+                <cell props="left-attach:0; right-attach:5; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="0" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">姓名:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="姓名" code="" codeSystem="">范建梅</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">性别:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="性别" code="" codeSystem="">女</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">科别:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="科室" code="" codeSystem="">
+                            先心周围血管科
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">床号:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="床号" code="" codeSystem="">
+                            8056040
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">住院号:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="住院号" code="" codeSystem="">
+                            0001080003
+                        </c>
+                    </p>
+                </cell>
+            </table>
+        </header>
+        <content>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="病程记录3" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-02 15:22
+                </c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="标题" code=""
+                   codeSystem="" elem-style="normal">　　　　　 首次病程记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:micro; font-family:宋体; font-size:-16" name="姓名" code="" codeSystem="">范建梅</c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">，</c>
+                <c props="text-type:micro; font-family:宋体; font-size:-16" name="性别" code="" codeSystem="">女</c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">，</c>
+                <c props="text-type:micro; font-family:宋体; font-size:-16" name="年龄" code="" codeSystem="">53岁</c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">。以&quot;发作性胸闷1周，加重伴胸痛2天&quot;之主诉入院。</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="病历特点" code=""
+                   codeSystem="" layer-no="2" elem-style="normal">病例特点：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                    1周前生气后出现胸闷，伴心悸、气短，伴头晕、头痛，伴咳嗽、咳少量白色痰，伴腹泻，无胸痛及心前区痛，无反酸、烧心，无黑矇、晕厥，无双下肢水肿，无发热、大汗，持续约数小时，1周来上述症状反复出现，未予重视。2天前生气后胸闷再发，伴心前区痛，疼痛呈憋痛，伴左侧背部疼痛，伴心悸、气短，伴头晕、头痛，伴咳嗽、咳少量白色痰，伴腹泻，无反酸、烧心，无黑矇、晕厥，无双下肢水肿，无发热、大汗，急诊就诊于外院，按“冠心病；腹泻”给予保守治疗（具体不详）后上述症状好转。现为求进一步诊治，遂来我院，以“冠心病
+                    不稳定型心绞痛”之诊断收治于我科。自发病以来，精神差，食纳可，夜休差，腹泻数日，每日3-4次，呈水样便，小便正常，体重未见明显减轻。无明显诱因出现头晕、头痛5年余，未予治疗。查体：T：36.6℃，P：56次/分，R：19次/分，Bp：130/80mmHg，颈部血管未闻及明显血管杂音，双肺叩诊呈清音，双肺呼吸音清晰，未闻及干、湿性罗音及胸膜摩擦音，心前区无隆起，心尖搏动位于左侧第5肋间锁骨中线内0.5cm处，未触及震颤，心界叩诊不大，无心包摩擦感，心律齐，A2&gt;P2,未闻及心音分裂及额外心音，各瓣膜听诊区未闻及病理性杂音，未闻及心包摩擦音，腹部柔软，无压痛、反跳痛，Murphy氏征阴性，移动性浊音阴性，肠鸣音未闻及异常。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">辅助检查:
+                    心电图（2013-07-03，本院）：窦性心律不齐，心电轴不偏。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="拟诊讨论：" code=""
+                   codeSystem="" layer-no="2" elem-style="normal">拟诊讨论：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">初步诊断</c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">：冠状动脉粥样硬化性心脏病
+                    不稳定型心绞痛 心功能Ⅱ级 客观评定B
+                </c>
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="诊断依据" code="" codeSystem="" layer-no="2"
+                   elem-style="button">诊断依据：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                    1.女性患者，53岁，绝经6年，以&quot;发作性胸闷1周，加重伴胸痛2天&quot;之主诉入院；2.T：36.6℃，P：56次/分，R：19次/分，Bp：130/80mmHg，颈部血管未闻及明显血管杂音，双肺叩诊呈清音，双肺呼吸音清晰，未闻及干、湿性罗音及胸膜摩擦音，心前区无隆起，心尖搏动位于左侧第5肋间锁骨中线内0.5cm处，未触及震颤，心界叩诊不大，无心包摩擦感，心律不齐，A2&gt;P2,未闻及心音分裂及额外心音，各瓣膜听诊区未闻及病理性杂音，未闻及心包摩擦音，腹部柔软，无压痛、反跳痛，Murphy氏征阴性，移动性浊音阴性，肠鸣音未闻及异常；3.辅助检查:
+                    心电图（2013-07-03，本院）：窦性心律不齐，心电轴不偏。
+                </c>
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="鉴别诊断" code="" codeSystem="" layer-no="2"
+                   elem-style="button">鉴别诊断：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                    1.心血管神经官能症:心前区疼痛部位不恒定，常为游走性和多变性，多局限于心前区或左乳房下区，可有局部压痛，压痛点常固定，疼痛常为持续数秒的针刺样、触电样痛，偶有剧烈刀割样痛，或持续数小时至数天无缓解的隐痛或胸部压迫感，常于安静时或活动劳累之后于休息状态时及精神紧张过后发病，与劳力和精神紧张无直接关系或活动后胸痛消失，发病时常不伴有多汗、恶心、呕吐等症状，舌下含服硝酸甘油类药物无效；2.急性心肌梗死:疼痛部位与心绞痛相似，但性质更剧烈、持续时间可达数小时，常伴冷汗、恶心、呕吐、可出现休克、心律失常及心力衰竭，含服硝酸甘油不能缓解，特异性的心电图改变和心肌酶含量增高可资鉴别；3.带状疱疹：出疹前可出现胸痛，但疼痛发生在沿带状疱疹的神经径路部位，伴有发热等全身症状。疱疹出现后诊断可明确。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:24" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="诊疗计划" code=""
+                   codeSystem="" layer-no="2" elem-style="button">诊疗计划：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                    胡志主治医师查看病人后指示，依据病史、查体及辅助检查，考虑有冠心病的可能性，指示完善检查，暂给予抗血小板聚集、调脂、抑制心肌重构、扩冠、营养心肌等治疗，患者表现为左侧胸痛，有时伴左侧背痛，应排除带状疱疹的可能性。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">胡志
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录4" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-03 08:03
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">主任医师查房记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    入院第二天，患者诉昨夜腹泻3次，为水样便，仍诉头晕、头痛，余未诉特殊不适。查体较前无明显变化。患者血常规示血小板计数75*10\script1 9\script0
+                    /L；肾功电解质、心肌酶谱未见异常；心动超声示卵圆孔未闭；颈部血管超声未见明显异常。今晨张全发主任医师、胡志主治医师查房示：1.根据患者症状、体征及辅助检查结果，冠心病的诊断不能排除，且存在卵圆孔未闭，继续按原方案给予抗血小板聚集、调脂、改善心功能等治疗，且于今日行冠脉造影术明确是否存在冠状动脉病变；2.患者昨夜腹泻，给予金双歧口服，同时嘱患者口服氟哌酸；3.患者血常规示血小板计数75*10\script1
+                    9\script0 /L，继续密切监测血小板计数。密切观察病情变化。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">张全发/胡志
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录5" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-03 08:34
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">术前讨论记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">今日张玉顺</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">主任医师、胡志</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    主治医师及住院医师对本患者进行术前讨论，认为：患者心绞痛症状
+                </c>
+                <c props="text-type:multy; font-family:宋体; font-size:16" name="" code="" codeSystem=""
+                   select-oper="true" items="典型|不典型" values="0|1" groups="0|0">不典型
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">，</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    查体：双肺呼吸音清，双肺未闻及干湿性啰音，心界
+                </c>
+                <c props="text-type:multy; font-family:宋体; font-size:16" name="" code="" codeSystem=""
+                   select-oper="true" items="向左扩大|不大" values="0|1" groups="0|0">不大
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">，心律不齐，心音</c>
+                <c props="text-type:multy; font-family:宋体; font-size:16" name="" code="" codeSystem=""
+                   select-oper="true" items="稍低钝|可" values="1|0" groups="0|0">稍低钝
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    。心电图示心律不齐。心动超声提示：卵圆孔未闭。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    冠心病、不稳定型心绞痛诊断不能排除，具有冠状动脉造影指征，未发现明显手术禁忌。患者及家属同意在术前准备后行冠脉造影检查，必要时进一步介入干预。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">胡志
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录6" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-03 08:40
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">术前小结
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">范建梅，女，53岁。以&quot;发作性胸闷1周，加重伴胸痛2天&quot;之主诉入院。入院诊断：冠状动脉粥样硬化性心脏病
+                    不稳定型心绞痛 心功能Ⅱ级 客观评定B。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">诊断依据：</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    1.女性患者，53岁，绝经6年，以&quot;发作性胸闷1周，加重伴胸痛2天&quot;之主诉入院；
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    2.T：36.6℃，P：56次/分，R：19次/分，Bp：130/80mmHg，颈部血管未闻及明显血管杂音，双肺叩诊呈清音，双肺呼吸音清晰，未闻及干、湿性罗音及胸膜摩擦音，心前区无隆起，心尖搏动位于左侧第5肋间锁骨中线内0.5cm处，未触及震颤，心界叩诊不大，无心包摩擦感，心律不齐，A2&gt;P2,未闻及心音分裂及额外心音，各瓣膜听诊区未闻及病理性杂音，未闻及心包摩擦音，腹部柔软，无压痛、反跳痛，Murphy氏征阴性，移动性浊音阴性，肠鸣音未闻及异常；
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">3.辅助检查:
+                    心电图（2013-07-03，本院）：窦性心律不齐，心电轴不偏。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">术前诊断：冠心病 不稳定型心绞痛
+                    心功能Ⅱ级 客观评定B；卵圆孔未闭。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">手术指征：</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">女性患者，53岁，绝经6年，以&quot;发作性胸闷1周，加重伴胸痛2天&quot;之主诉入院，查体颈部血管未闻及明显血管杂音，双肺叩诊呈清音，双肺呼吸音清晰，未闻及干、湿性罗音及胸膜摩擦音，心界不大，心律不齐，A2&gt;P2，各瓣膜听诊区未闻及病理性杂音，心电图示窦性心律不齐，心电轴不偏。不稳定型心绞痛诊断可能性大，具有冠状动脉造影指征，必要时进一步介入干预；患者及家属同意行介入治疗。</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">拟行手术：CAG，备PCI。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">术前准备：</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    1.术前各项常规检查已安排，未见明显手术禁忌；
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    2.手术意义及风险已向患者及家属谈明，患者及家属同意手术；
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    3.术前谈话已进行，手术同意书已签；
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">4.术前医嘱已下，准备就绪；
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    5.术者张玉顺主任医师已看过病人同意手术，张玉顺主任医师、胡志主治医师等参加术前讨论后认为患者冠心病需要排除，具有冠脉造影指征，可安排手术。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">术中、术后注意事项及处理：
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    1.术中细心操作，避免不必要损伤；
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    2.术中监测生命体征，保持生命体征平稳；
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    3.术后复查心电图，观察末梢循环情况；
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">4.术后继续药物治疗。</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">麻醉选择：局麻。</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">手术人员：张玉顺、胡志</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    手术日期：2013-07-03
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">胡志
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录8" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-03 16:46
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">术后首次病程记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    患者今日在DSA行CAG术，患者取平卧位，常规消毒铺巾，2%利多卡因局麻后成功穿刺右桡动脉，肝素5000u鞘入，SCA示：冠脉起源正常，右冠优势型。LM正常，发出LAD及LCX，TIMI
+                    血流3级；LAD近段30%局限性狭窄，TIMI 血流3级；LCX全段光滑无狭窄，TIMI 血流3级；RCA近中段动脉粥样硬化，最重30%狭窄，TIMI
+                    血流3级。拔除鞘管，加压包扎，返回原病房。术后医嘱：1.嘱患者多饮水；2.调整用药：继续口服阿司匹林0.1g
+                    1次/日，停用氯吡咯雷及硝酸酯类药物；3.术后复查心电图观察病情变化；4.补液500ml；5.右桡动脉穿刺处6小时后松解绷带，注意穿刺处有无渗血、血肿等情况。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">胡志
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录9" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-04 10:33
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">主任医师查房记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    CAG术后第1天，患者诉未有胸痛不适，无胸闷，头晕仍存在，一般情况可。伤口敷料干燥无渗出。查体：牙龈、皮肤黏膜未见出血点，心律齐，各瓣膜听诊区未闻及明显杂音或附加音，无心包摩擦音。复查血常规未见明显异常。今晨张全发主任医师、胡志主治医师查房示：1.根据患者症状、实验室检查结果、冠脉造影结果，现修正诊断为：冠状动脉粥样硬化症；卵圆孔未闭；2.患者平素反复头痛、头晕，心脏超声示卵圆孔未闭，右心声学造影示静息状态下左心内未见微气泡影，行Vasalva动作后即刻左心内探及少量微气泡，可预约发泡试验进一步明确心腔内右向左分流情况，必要时可行卵圆孔未闭封堵术，继续给予营养心肌对症支持处理。嘱多饮水促进造影剂排泄。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">张全发/胡志
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录10" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-05 11:49
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">主治医师查房记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    术后第2天，患者诉无胸闷胸痛发作，无头晕头痛，无呕血及便血，一般情况可。复查粪常规未见异常；伤口恢复良好。查体：牙龈、皮肤黏膜未见出血点，心律齐，各瓣膜听诊区未闻及明显杂音或附加音。辅助检查：传染性指标检测示丙型肝炎抗体测定阳性、乙肝表面抗体弱阳性；发泡试验示行Vasalva试验后10秒内监测到7-8个栓子信号。今晨胡志主治医师查房示：1.现患者一般状况良好，近日来胸闷、胸痛未再发作，治疗方案同前；2.发泡试验示Vasalva试验后10秒内监测到7-8个栓子信号，可请张玉顺主任医师查看病人明确是否需要行卵圆孔未闭封堵术；3.查丙肝抗体阳性，患者20余年前曾输血，考虑可能与此相关，但肝功示转氨酶正常，可不予报疫卡，建议患者至传染科或消化内科门诊进一步诊治。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">胡志
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录11" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-06 11:39
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">主任医师查房记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    CAG术后第3天，患者诉无胸闷胸痛发作，无头晕头痛，无呕血及便血，一般情况可。查体：手术穿刺口愈合良好，桡动脉搏动良好，牙龈、皮肤黏膜未见出血点，心律齐，各瓣膜听诊区未闻及明显杂音。复查粪常规未见异常。张玉顺主任医师、胡志主治医师查看病人后指示：1.冠脉造影排除冠心病，明确为冠状动脉硬化，继续抗动脉硬化治疗；2.患者反复头痛、头晕，心脏超声示卵圆孔未闭，右心声学造影及发泡试验明确心腔内存在右向左分流，具有卵圆孔未闭封堵术指证，若患者及家属同意可近期行卵圆孔未闭封堵术。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">张玉顺/胡志
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录16" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-08
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">主治医师查房记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    CAG术后第5天。偶有头痛、头晕，无胸痛、胸闷、气短出现，腹泻缓解，一般情况良好，饮食、睡眠可，大小便外观无异常。体温正常，右手腕穿刺口愈合良好，桡动脉搏动良好，心肺查体未及明显异常。复查血常规大致正常。患者及家属商议后拒绝行卵圆孔未闭封堵术。胡志主治医师查房看过病人后指示：心脏超声明确存在卵圆孔未闭，依据临床症状及相关检查，建议行卵圆孔未闭封堵术，患者及家属商议后拒绝行卵圆孔未闭封堵术，尊重患者及家属意见，明日可安排出院，嘱出院后改变不良生活方式，继续服药，不适随诊。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">胡志
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录18" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2013-07-09
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">出院小结
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">范建梅，女，53岁。以&quot;发作性胸闷1周，加重伴胸痛2天&quot;之主诉入院。1周前生气后出现胸闷，伴心悸、气短，伴头晕、头痛，伴咳嗽、咳少量白色痰，持续约数小时，1周来上述症状反复出现，2天前生气后胸闷再发，伴心前区痛，疼痛呈憋痛，伴左侧背部疼痛，伴心悸、气短，伴头晕、头痛，伴咳嗽、咳少量白色痰，急诊就诊于外院，按“冠心病”药物治疗后上述症状好转。查体：T：36.6℃，P：56次/分，R：19次/分，Bp：130/80mmHg，颈部血管未闻及明显血管杂音，双肺叩诊呈清音，双肺呼吸音清晰，未闻及干湿性罗音，心界不大，心律齐，A2&gt;P2，各瓣膜听诊区未闻及病理性杂音。辅助检查：心电图（2013-07-03，本院）：窦性心律不齐，心电轴不偏。入</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">院诊断：冠状动脉粥样硬化性心脏病
+                    不稳定型心绞痛 心功能Ⅱ级 客观评定B。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    入院查心肌酶正常，血脂甘油三酯1.45mmol/L、高密度脂蛋白0.62mmol/L、低密度脂蛋白1.41mmol/L，心电图示窦性心律不齐，胸片示双肺纹理增重，心膈未见异常，心脏超声示卵圆孔未闭，各心腔大小及大血管内径未见异常，左室收缩、舒张功能正常，EF65%，右心声学造影示静息状态下左心内未见微气泡显影，行Vasalva动作后即刻左心内探及少量微气泡；发泡试验示静息状态下10秒内未监测到明显栓子信号，行Vasalva试验后10秒内监测到7-8个栓子信号；颈部血管超声未见异常。2013-
+                    07-03局麻下行冠脉造影示LAD近段30%局限性狭窄，RCA近中段动脉粥样硬化，最重30%狭窄，术后恢复良好。患者及家属商议后拒绝行卵圆孔未闭封堵术。住院期间查血常规PLT75-94×109/L，尿粪常规正常，丙型肝炎抗体测定阳性，肝功大致正常，肾功正常。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    出院时偶有头痛、头晕，无胸痛、胸闷、气短出现，腹泻缓解，一般情况良好，饮食、睡眠可，大小便外观无异常。体温正常，右手腕穿刺口愈合良好，桡动脉搏动良好，心肺查体未及明显异常。复查血常规大致正常。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    出院诊断：1.冠状动脉粥样硬化；2.卵圆孔未闭。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    出院医嘱：1.低盐低脂饮食，规律作息，调节情绪；2.继续口服阿司匹林100mg
+                    1次/日，严密观察有无全身皮肤黏膜瘀点、瘀斑、牙龈出血、咳血、呕血、黑便、血尿等全身出血倾向，若无禁忌可长期服用，瑞舒伐他汀5mg
+                    每晚一次，4-6周复查一次肝功，1-3月复查一次血脂；3.若仍有反复头痛、头晕，神经内科门诊就诊；4.建议传染科或消化内科门诊进一步诊治丙型肝炎；5.若仍反复腹泻，消化内科门诊就诊；6.不适随诊。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">胡志
+                </c>
+            </p>
+        </content>
+        <footer>
+            <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">第</c>
+                <field props="field-type:pagenumber; font-family:宋体; font-size:16" name="" code="" codeSystem=""/>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">页</c>
+            </p>
+        </footer>
+    </section>
+</epr>

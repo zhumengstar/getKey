@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?><!-- ======================================================================== --><!-- This file is an Electric Patient Record.                                 --><!-- Created by EPRPad v3.0 Serial,Copyright (c) 2006 陈联忠.                 --><!-- More information about EPRPad is available at http://www.EprExpert.com/  --><!-- You should not edit this file by hand.                                   --><!-- ======================================================================== -->
+<epr props="doc-type:normal" name="" code="" id="" default-font-name="宋体" default-font-size="16" default-line-span="10">
+    <pagesize pagetype="A4" orientation="portrait" width="210" height="297" margin-top="38" margin-bottom="10"
+              margin-left="15" margin-right="15" margin-header="15.0" margin-footer="0.0" margin-bind="0.0"
+              header-style="0" draw-shading-type="0" bind-position="0" page-scale="1.000000" units="mm"
+              page-start-number="1"/>
+    <section name="">
+<!--        <micro Hospital="西 安 交 通 大 学 第 一 附 属 医 院" 出生地="出生地" 科室="胸外1科" 性别="男" 住院号="0001070025" 民族="汉族"-->
+<!--               入院时间="2013-05-27 09:24" 住址="611021113000^陕西省商洛市洛南县卫东镇" 年龄="55岁" SubTitle="住院患者参保确认书" 床号="8016016"-->
+<!--               记录日期="2013-05-28" 姓名="秦书明" 电话="电话"/>-->
+        <sectionversions></sectionversions>
+        <sectionauthors></sectionauthors>
+        <fixheader header-line="fasle">
+            <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                <c props="text-type:micro; font-weight:bold; font-family:宋体; font-size:-24" name="Hospital" code=""
+                   codeSystem="">西 安 交 通 大 学 第 一 附 属 医 院
+                </c>
+            </p>
+        </fixheader>
+        <header>
+            <table props="table-column-widths:334mm/334mm; table-row-heights:42mm; cell-counts:1; border-width:1; cell-span:8"
+                   name="" code="" codeSystem="" table-align="left">
+                <cell props="left-attach:0; right-attach:2; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-24" name="" code="" codeSystem="">
+                            手术安全核查记录
+                        </c>
+                    </p>
+                </cell>
+            </table>
+        </header>
+        <content>
+            <table props="table-column-widths:83mm/114mm/52mm/131mm/35mm/104mm/62mm/83mm; table-row-heights:31mm/31mm/31mm; cell-counts:9; border-width:1; cell-span:2"
+                   name="" code="" codeSystem="" table-align="left">
+                <cell props="left-attach:0; right-attach:2; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="2" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">科 别:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="科室" code="" codeSystem="">胸外1科
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:4; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="2" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">患者姓名:
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="姓名" code="" codeSystem="">秦书明</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:4; right-attach:6; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="2" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">性别:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="性别" code="" codeSystem="">男</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:6; right-attach:8; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="2" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">年龄:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="年龄" code="" codeSystem="">55岁</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:2; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="2" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">病案号:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="住院号" code="" codeSystem="">
+                            0001070025
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:4; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="2" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                            麻醉方式:全麻
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:4; right-attach:8; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="2" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                            拟行手术方式:胸腔镜肺叶切除
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:4; top-attach:2; bot-attach:3" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="2" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                            手术者:付军科
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:4; right-attach:8; top-attach:2; bot-attach:3" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="2" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">手术日期:
+                        </c>
+                        <c props="text-type:format; font-family:宋体; font-size:16" name="手术日期" code="" codeSystem=""
+                           mask="yyyy年MM月dd日" format-type="datetime" select-oper="true">2013年06月05日
+                        </c>
+                    </p>
+                </cell>
+            </table>
+            <table props="table-column-widths:227mm/226mm/226mm; table-row-heights:21mm/630mm/21mm; cell-counts:9; border-width:1; cell-span:8; table-border:1; hide-border:1"
+                   name="" code="" codeSystem="" table-align="left">
+                <cell props="left-attach:0; right-attach:1; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">麻醉实施前
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:2; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">手术开始前
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:3; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                            患者离开手术室前
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            患者姓名、性别、年龄正确：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术方式确认：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术部位与标识正确：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术知情同意书：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            麻醉知情同意书：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            麻醉方式确认：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                            麻醉设备安全检查完成：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                            皮肤是否完整：
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            术野皮肤准备正确：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            静脉通道建立完成：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            患者是否有过敏史：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            抗菌药物皮试结果：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">术前备血：
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:multy; font-family:宋体; font-size:-16" name="" code="" codeSystem=""
+                           items="假体|体内植入物|影像学资料" values="1|1|1" groups="0|0|0">假体、体内植入物、影像学资料
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">其他：</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:2; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            患者姓名、性别、年龄正确：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术方式确认：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                            手术部位与标识确认：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-16" name="" code=""
+                           codeSystem="">手术、麻醉风险预警：
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术医师陈述：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">预计手术时间
+                        </c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">预计失血量
+                        </c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">手术关注点
+                        </c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            麻醉医师陈述：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">麻醉关注点
+                        </c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">其他</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术护士陈述：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">物品灭菌合格
+                        </c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">仪器设备</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                            术前术中特殊用药情况
+                        </c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">其他</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            是否需要相关影像资料：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">其他：</c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:3; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            患者姓名、性别、年龄正确：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术方式确认：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术用药、输血的核查：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术用物清点正确：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            手术标本正确：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
+                            皮肤是否完整：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">是</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-16" name="" code=""
+                           codeSystem="">各种管路：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">中心静脉通路
+                        </c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">动脉通路</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">气管插管</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">伤口引流</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">胃管</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">尿管</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">其他</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-16" name="" code=""
+                           codeSystem="">患者去向：
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">恢复</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">病房</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">ICU病房
+                        </c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">急诊</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">离院</c>
+                        <c props="text-type:single; font-family:宋体; font-size:-14" name="" code="" codeSystem=""
+                           items="□|√" values="0|0">□
+                        </c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">其他：</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:2; bot-attach:3" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">手术医师签名
+                        </c>
+                        <c props="text-type:fix; font-family:宋体; font-size:16" name="住院医师签名" code="" codeSystem=""
+                           layer-no="1" elem-style="normal">张勇
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:2; top-attach:2; bot-attach:3" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">麻醉医师签名
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:3; top-attach:2; bot-attach:3" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="8" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                            手术室护士签名签名
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+            </table>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+            </p>
+        </content>
+        <footer>
+            <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem=""></c>
+            </p>
+        </footer>
+    </section>
+</epr>

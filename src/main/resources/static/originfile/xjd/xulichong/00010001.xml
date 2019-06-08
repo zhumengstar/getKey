@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="utf-8"?><!-- ======================================================================== --><!-- This file is an Electric Patient Record.                                 --><!-- Created by EPRPad v3.0 Serial,Copyright (c) 2006 陈联忠.                 --><!-- More information about EPRPad is available at http://www.EprExpert.com/  --><!-- You should not edit this file by hand.                                   --><!-- ======================================================================== -->
+<epr props="doc-type:normal" name="" code="" id="" default-font-name="宋体" default-font-size="14" default-line-span="10">
+    <pagesize pagetype="A4" orientation="portrait" width="210" height="297" margin-top="37" margin-bottom="10"
+              margin-left="10" margin-right="10" margin-header="15.0" margin-footer="0.0" margin-bind="0.0"
+              header-style="0" draw-shading-type="0" bind-position="1" page-scale="1.000000" units="mm"
+              page-start-number="1"/>
+    <section name="">
+        <micro Hospital="西 安 交 通 大 学 第 一 附 属 医 院" 科室="心血管内科2病房" 性别="男" 住院号="0001151795" 住院目的="住院目的" 民族="汉族"
+               入院时间="2014-05-04 08:19" 职业="专业技术人员" 年龄="24岁" SubTitle="护理记录单（首页）" 床号="8002028" 入院日期="2014-05-04"
+               姓名="强国力"/>
+        <sectionversions></sectionversions>
+        <sectionauthors></sectionauthors>
+        <fixheader header-line="fasle">
+            <table props="table-column-widths:120mm/464mm/40mm; table-row-heights:26mm/30mm; cell-counts:5; border-width:1; cell-span:5"
+                   name="" code="" codeSystem="" table-align="center">
+                <cell props="left-attach:0; right-attach:1; top-attach:0; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0"
+                       fix-height="10"><image mime-type="image/bmp" base64="yes" file="jdyfy.bmp" base64-size="20084"
+                                              draw-mark-count="0" height="67" width="74" show-height="67"
+                                              show-width="74" file-size="15062" name="" code="" codeSystem=""/>
+                        Qk3WOgAAAAAAADYAAAAoAAAASgAAAEMAAAABABgAAAAAAKA6AAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////n48vz8+f///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////6OPI5d/A9vTq////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////f2bHd16/o5cz////////////////////////////////////////////////////////////////////4+vXf6NL///////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////Px48vBhL+yZNzXsP///////////////////////////////////////////////////////////////////+/06b/SpP///////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////5d++s6VMppQVtKtU////5OLE9/fu/////////////////////////////////////////////////P370Ny54OjTus6e3+nT+/36////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////n4sOxokWcjAyfkiHo5czV0aHx8eP////////////////////////////////////////////////z9u2huXTM2rWCp06PtGby9+7///////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////+fiwberXZ2NE5uMCbixYM3IkeTixdzbuP7+/f////////////////////////////////7+/vb48e/z5qi/f7rOm3inOZq5c/7//v///////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////5N67tKZSnY8XlocGpZo0sapY4uDB0M6e/Pz5////////////////////////////////+fr11d6+1uHAkK1dnbhzdaM3n716////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////p5MipmTKbiw+VhweilyepokvKyJLk48n////////////////////////3+PH7/Pr////19+7L162+z52HqE2Dp0lzoDWOsWL4+vb///////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////+7q1p+MFZmIBpWHCKCVKK+pV5eRFbq4bvf37/7+/f///////////////9HXr+bq1c7Wrezw4LXFipCrV3qfNnadNnOgN4SsV/X48f///////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////9PLlpJAdmYgGlocJm48cpZ4+lI4Np6VI1dWt/f37/////////////v7+19y75urVmqtV5OnUk6tWg6M/dZowdJw0dKE4psOF/v/+////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////x7t6hjxmaiAeWiAuViQyTiQ6Riw+YlSSvrVz39+/////////////////3+PLy9OqVqE2vv32Opk2FpER1mzB0nDV0ojm+06X///////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////+zo0KCNFJmIB5aIC5WJDZOKDpGKD56bMpeYMejo0P////////////P06sLKlbfChYedN4ulPYGdNX+eO3WbMnSdNHWiOLbOmv///////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////+/r0rJw0mokGlogLlYkNk4oPkYoPmZcrlZYo3N269PTq8/Pp////4+fQxs2cmKlRhZsugZwzgp45fp45dpsydJ00dKE5w9as////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////+/fy0pUebigaWiAuViQ2Tig+SjBGPixGQkBjIyJfl58/Mz6Dv8OH8/fv////I0KKCmil9lymUqld8nTZ1mzF0nTR0oDjJ2rT///////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////X06aeWKZqIBpaIC5WJDZOKD5KMEY+ME5CQG66vaLm7eo6XJ7W7ePb38NrfwLvGjIGZKX6YKoiiQ3ucNHabMXSdNHWhOcHVqf////j69vT48fX58+3z6eXu4dfo0ufy5fz++////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////9vXsr545m4oHlogLlYkNk4oPkowRj4wUjo4Ymp06lJozjpchs7hz2N28nqpYj6FBf5cofZcqepkseZovdZsyc500c585yNq0////9fjy8Pbs8vbu3ejXy9vDsNCnpMmct9a0wdy/1OjU4/Hk9fr16PPr5/Pq////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////CtmiejAeWiAuViQ2Tig+SjBGPjBSOjRaTlSmWmzWLlB+stGrd4sfb38Cqt22Cmih9mCp7mS14mi92mzJ0nTRznTnW48f////////////6/Pn09/Hl8OHi7d7V4tK81bnF4MO41bmZypyazqCn1K6d0Keh1a7F58////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////8O3a56MB5aIC5WJDZOKD5KMEY+MFI2NFpudPI6TJomRHpqjRcLJk/b38Ke1aYKbKH2YKnqYLHmaMHabMnSeNX+nSNDfvv////////////7+/vb59e727eHu3tvo2MTbw7XWsr3YvZ/Pop3RonTBgVq8b2zGg3HCibXhxPr9+////////////////////wAA//////////////////////////////////////////////////79////////////////////////////////////////////////////////0MeNnYsJl4gLlYkNk4oPkowRj4wUjo0WjpEfi5EfiZEgkZwulKFA7e/fkaNEgZkpfZcqepgseZowdpsyd6E2sMmO/v79/////////////////////////f789vn17vTt0OPOw9vCnsyhjcWTc7+AVLRpTbRoZMGAbMSKl9eu+/38////////////////AAD////////////////////////////////////////8+PPVtHfHnkziz6j////////////////////////////////////////////////////Z0qSaiQmXiAuViQ2Tig+SjBGPjRSOjReLjxqJjxyOlSijq1OXo0ba3sGLnjmAlyd9mCp6mCx5mjB2mzJ2nzbF1av////////////////////////////////////////Q5tCQx5KSy5V5voBnuHVUtWprvoBMtmtUvXhqx4yc2rX///////////////8AAP////////////////////////////////Pp2N/GmsWYRrZ3Arh7ALN+E+HOpPXv4v///////////////////////////////////////////9vUppqJCJeIC5WJDZOKD5KMEY+NFI6NF4yPG4mOG4+XLb/FiZGeO663d4aZMX6WJn2YKnqYLHmaMHecMneeOuPq1////////////////////////////////////////9Po0q/Wr4zFkWm3c163bUuyYV65dWW+gDiyYmHDhWDBiMrs2P///////////wAA////////////////////////+/jz2LiCu4Efs3QCt3YAsHMArnQAsHcArXkDuI0oyatg6d3A/fz6////////////////////////////////5eDAmYkMl4gKlYkNk4oPkowRj40Ujo0XjI8biY4bk5o01dmxjZoymaZOg5cqf5YofZgqepgseZowd5wyeZ876O7f////////////////////////////////////////////////5fLlpdOsZsB1SbJgR7JiXLt5XL19PbZqa8qSdM2b////////////AAD////////////////////48+rMn1i6dAK3cgCycgCwcgCvcwCudACtdQCueACxfACyfwGwhx2/nkfk2LX////////////////////////////k372aiAyXiQqViQ2Tig+SjBGPjRSOjReMjxuHjBeSmjPY3LeJliuClCOBlCV/lih9mCp6mCx5mjB2nDJ1njfW4sT////////////////////////////////////////////////////4+fe3271iuXRFsmFBs2Nlv4M+t2tMvXlVw4T6/fz///////8AAP////////////////v49MubU7xyAbRwALFwALBxALByAK9zAK50AK11AKx3AKt4AKl5AKx9ALCCALGMItC8e+zmzv///////////////////9bOnJyKCZeICpWJDZOKD5KMEY+NFI6NF4uNGZGVKp+lSuPmzIyZMIGTIYGVJn+WKH2YKnqYLHmaMHabMnSdNszbt/////////////////////////////////////////////////////////v9+7XcvVy6dD6yYUe2bUq6dDq3bFjIiOj37v///////wAA////////////+vbw0KRkum8CtW0As28AsXAAsHEAsHIAr3MArnQArXUArHcAq3gAqXkAqHoApnsAqH8ArIQBro0g3c+h+ffv////////////7urWopIimIoJlYkNk4oPkowRj40UjY0VkZMkwsaMpKpT6OrUjJkugpMhgZUnf5YofZgqepgseZowd50yfKNB7vPn////////////////////////////////////////////////////////////5fPoeMKLQLRjQLVoTrt2NbZpPMB11fHi////////AAD////////////SpWe8bwG2bAC0bQCzbwCxcACwcQCwcgCvcwCudACtdQCsdwCreACpeQCoegCmewCmfAClfgCnggCigQO1nDrIuXHn4cP///////+uokGZiwmViQ2Tig+SjBGPjRSNjBWTlijf4cLHy5bZ3bmMmTB+jxqAlSZ/lih9mCp6mCx5mjB3nTJ9o0Lp7+D////////////////////////////////////////////////////////////w+PFzwIZAtGM8tGU5tWg1tmkzvm/S8OD///////8AAP////////HizrhwDLhsALRsALRtALNvALFwALBxALByAK9zAK50AK11AKx3AKt4AKl5AKh6AKZ7AKV8AKR9AKJ/AKKBAKWFAKeIAKWMFMCxYNjQoaOVJZeJCZWJDZOKD5KMEY+MFI6OF4uOGKmtWdfatN/jxtXasqazYoGWJ36WJ32YKnqYLHmaMHacMnWeN+Dp0////////////////////////////////////////////////////////////87m02K9ej+zYj2zZj62azS2aUjBfdXx4v///////wAA////////4sWfvG0CtmsAtWwAtG0As28AsXAAsHEAsHIAr3MArnQArXUArHcAq3gAqXkAqHoApnsApXwApH0Aon8AoIAAn4AAn4IAoYYAoooDnIgHmogKl4gKlYkNk4oPkowRj4wUjo4Xi48agYgNlZw33eHA1Nmy9PbukqNEfJUkfZgqepgseZowd50xgadI7fLn////////////////////////////////////////////////////////v+LFdMGFS7VmP7NiRLZrQrhuNrdrUcCA+P36////////AAD////////t2L+4bgm7bgG7cAG8cQC2cQCycACwcQCwcgCvcwCudACtdQCsdwCreACpeQCoegCmewClfACkfQCifwCggACfgACfggCdhAGbgwObhgWYhwaWiAuViQ2Tig+SjBGPjRSOjReJixWSmC+1uXLs793V2rTu8eKOoD19lSV9mCp6mCx4mS6EqEOqwoP+/v7////////////////////////////////////////////////+/v7G48pounVMtWNDsF8/smJEtmo+t2s7u29px5H///////////8AAP////////78+ubNrN+/k9audMmXSLRzCrh0ALFxALByAK9zAK50AK11AKx3AKt4AKl5AKh6AKZ7AKV8AKR9AKJ/AKCAAJ+AAJ+CAJ2EAZuDA5qFBpiHB5aIC5WJDZOKD5KMEY+MFIyLFKOlSObnz+Xo0O7x4b7GipyqUoCUJH+WKH2YKnuYLXibLpWyYt7m0P///////////////////////////////////////////////+by5qrUrWq6clC0YEewXkSxYECzYzy0Zji1Zzm7bZrbtf///////////wAA/////////////////////////fr36da4x5tQtnQCtHQAsHMArnQArXYArXcArnkAqnkAqHoApnsApXwApH0Aon8AoIAAn4AAn4IAnYQBm4MDmoUGmIcHlogLlYkNk4oPkowRj4wTjYwV19ix+vr2ub577/HilKFAfI0XgZUmf5YofZgqepgsfKAwscWL////////////////////////////////////////////3+vexNvBgL6AXrZkULFbSa5bSLBfRLFgQLNjPbRlOrZqRLt02PHi////////////AAD////////////////////////////////8+PPavYy3fRa3eAGzdwCudgCueAOtfguufAGoegCmewClfACkfQCifwCggACfgACfggCdhAGbgwOahQaYhweWiAuViQ2Tig+SjBGPjBONjBXT06j+/v7M0J7b376ZpUd+jxt8kR9+lSd9mCp7mSx7nTCZtGjK2rPO3brR4MDP3r7S4sXa6dHN4cLA2rWjy5S72bLP5ct6uHNuvGtWsFhPrVZNrlhKr1xIsF9EsWBAsmM+tGZJv3VyyJT2+/j///////////8AAP///////////////////////////////////////+nZutS0er2OMLR7AraIJeXWs8ywa6h7AqZ7AKV8AKR9AKJ/AKCAAJ+AAJ+CAJ2EAZuDA5qFBpiHB5aIC5WJDZOKD5KMEY+MFIyME52fPd7gwPv7+PDx4+Xo0MjQn5yrVH2VJXyXKXqZLHmaMHacMnefNnSgOXCfOm6hPmuhP2+lR2ajQ2WoRmauTGOqT2SsVleqTlOqT1KrVVCtV06uWUqvXEiwX0SyYT+yYka7bmrDi9Lt3P///////////////wAA////////////////////////////////////////////////9u/i28OR4tGr////6t/GqHwGp3wApXwApH0Aon8AoIAAn4AAn4IAnYQBm4MDmoUGmIcHlogLlYkNk4oPkowRj4wUjo4XiYwVj5Qntrt14+XK4eXK9PXr8/XrrLt0epYmepkseZowdpwydZ00c6A3cKA5bqI8a6M/aqVAZqZCZKdEYKZIX6lKXqtNWalQVqtSU6tVUK1XTq5ZSq9cRrBdQ7FgRLpoWb98z+va////////////////////AAD////////////////////////////////////////////////////////////////y7d6pfQqpfQClfACkfQCifwCggACjgwCniAChhwCbhAKahQWYhweWiAuViQ2Tig+SjBGQjRSOjRaIjBR+hQihp0vv8OCapUmirlv////h5s1+mCt6mSt5mjB2mzJ0nDRynjdvnjltoDxqoT5ooj9lpEFjpURgpkhfp0pcqExZqVBWq1JTq1VQrVdNrllJr1tLs2FOu2prwoXJ59P///////////////////////8AAP////////////////////////////////////////////////////////////////z798GkUK6BAqqAAKV+AKR/AKeFAKuQH8CsWq+aMZyFBJqFA5iHB5WHCJWJDZOKD5KMEY+LEoqKD5aZL6itWb7Bgvb378rRoN3ixP///8jSo3uWJ3qZLHmaMHabMnScNHKeN2+eOW2gPGqhPmiiP2WkQWOlRGCmSF+nSlyoTFmpUFasUlOsVU2tVFC0XFe4aGG8dHfFi9zw4v///////////////////////////wAA////////////////////////////////////////////////////////////////////+fbv072Bso4iqoMCqIQEtp0559/A////z8OFrJYirJw0mYgJnI8blYkOk4oPkYsQj4wUublw7u7d/f375ujQ8/Xq4eXK6u3byNKhip87e5YnepgteZowdpsydJw0cp43b545baA8aqE+aKI/ZaRBYqVEYaZIXqdJW6dLWKlPVq1SWbFbaLhtlM2bu97BqNey1u3c////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////u6NTYyJXbzp/m3r3////////d1amvnjiolSWhjw6xpkeXixGTig6PiQynpEX6+vbw8OG8v3/BxYr4+fOps2WKmjF/lCN8lCR9mCp6mCx5mjB2mzJ0nDRynjdvnjltoDxpoT1koTtioz5hpUJkrUlkrk9jsFRhs1iIw4W93r693L/v9vD////6/fr+//////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////v////////////Lv3tfPnq2gO6WYLZWJD5OKD46ICrOxXv///7i6dHmBAKyxYf39+6CsVXyNF36TIn+WKH2YKnqYLHmaMHabMnScNHKeN2+eOG2gO3GmRoKzYI2+cnavXIa7cpnDjZTDionBg9Ln0P////////v9+////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////9vXr5uPGn5QllIwOkYoOmpcp6urT5efPn6RHrbJj9fbtn6tTe4wVfpIheZIffJcoe5kteJkvdp0zeaM2d6Y4dac8caU9dqlNssyg2OTRttKp8Pbt+Pr37fTr8/ny/v7+////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////5+fKjly6VjA6SixKNihChoT7a27br7Nnd37/f4sTDypXDy5TM1Kesu3SBmzJ6mCx6nDCWs2SsxIigvXijwYGzzZnN377w9ez////7/Pr///////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////j38aOaMpWND5KMEY+MFIqKEI2QHqKmS8fLleTnztbbt+bp0vX37tzjxY6nSXiYKXyfMbHGi////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+/r2pp03l40PkowRj4wUjo4Xio0XgogOsbZs+Pn0pa9eiJgtk6NEiZ44fpgsepksfJ8xuMuV////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+/v21rViXjQ6SjBGPjRSOjheMjxqFixS1unT///+stmp7jRZ9kR98lCN9lyl6mSx8nzG/0KD///////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7qyYpeODpKMEI+NFI6OF4qOGJGWK9vevP///9XatIeYLICUJX+WKH2YKnuZLXydMczas////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////taxYmI4OkowQj40Ujo4XiYwVpKdO/////////P36lqVHfpMif5cofZgqe5kteZsx1+HD////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////v7JxIedkxCVjhCQjhSOjheLjRmSlyzT167w8uTM06WImC2AlCR/lih9lyp7mS15mzDV4MH///////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Tz5rq1aZiSHpGPFI6OFoyPG4mOG4yUJpSfPIeUJ4KTI4GVJ3+WKH2YKnuaLXmZMNzly////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////5OPGtbVokZEYjI8bio8dh48ego8bg5Agg5QkgZUnf5YofZgqfZwuk6tY9ffw////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////a2rORkRqMjxuKjx2JkSGGkiKFkiODlCSBlSd/lih+mSp8mi7a4sb///////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9nYr5CPGIyPG4qPHYmRIYaSIoWSI4OUJIGVJ3+WKH2aKrTEif7+/v///////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////6OfPkZEdjpEbio8diZEhhpIihZIjg5QkgZUngZkojaRH9vjw////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////t7Nqopk6PkSGLkR2IkSCGkiKFkiODlCSClSeGnyq4xoz///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9nYstfXsJufPo2THoiRIIaSIoWSI4SVJIecKZaqUOvv3v///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////3dy63t69ycqVur56jJQihpIhhpMjhZcnsLx46u7c////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////v/+/v7+/v7m59CMlCaIlCKHlCOPnjr09e3///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////T065ykR4mVI4aUI4eXK+Lnzf///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+vr26evXuL99h5UjhZYm1927////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8/PvP0qeJmCSLmzbv8eX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////87Tp4qaJaKuXfv8+P///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////zNGktr998PLm/v7+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////HzJnj5Mz///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+vs2/r69f///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAA=
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:2; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0"
+                       fix-height="13">
+                        <c props="text-type:micro; font-weight:bold; font-decoration:underline; font-underlinetype:0; font-family:宋体; font-size:-18"
+                           name="Hospital" code="" codeSystem="">西 安 交 通 大 学 第 一 附 属 医 院
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:3; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:2; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0"
+                       fix-height="15">
+                        <c props="text-type:micro; font-weight:bold; font-family:宋体; font-size:-21" name="SubTitle"
+                           code="" codeSystem="">护理记录单（首页）
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:3; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+            </table>
+        </fixheader>
+        <header header-line="fasle">
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                <c props="text-type:fix; font-family:宋体; font-size:14" name="" code="" codeSystem="" elem-style="normal"
+                   elem-border-frame="true">FHXJ-RD-GM-27/C
+                </c>
+            </p>
+        </header>
+        <content>
+            <table props="table-column-widths:135mm/100mm/96mm/134mm/73mm/16mm/15mm/66mm/83mm; table-row-heights:42mm; cell-counts:1; border-width:1; cell-span:0; table-border:1; hide-border:1"
+                   name="" code="" codeSystem="" table-align="left">
+                <cell props="left-attach:0; right-attach:9; top-attach:0; bot-attach:1" draw-left="1" draw-right="1"
+                      draw-top="1" left-pad="0" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">科室:
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:-13" name="科室" code="" codeSystem="">
+                            心血管内科2病房
+                        </c>
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">床号:
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:-13" name="床号" code="" codeSystem="">
+                            8002028
+                        </c>
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">姓名:
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:-13" name="姓名" code="" codeSystem="">强国力
+                        </c>
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">住院号:
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:-13" name="住院号" code="" codeSystem="">
+                            0001151795
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">性别:
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:-13" name="性别" code="" codeSystem="">男</c>
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:14" name="" code=""
+                           codeSystem=""></c>
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">年龄:
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:-13" name="年龄" code="" codeSystem="">24岁
+                        </c>
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">民族:
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:-13" name="民族" code="" codeSystem="">汉族</c>
+                    </p>
+                </cell>
+            </table>
+            <table props="table-column-widths:112mm/150mm/239mm/219mm; table-row-heights:21mm/84mm/21mm/42mm/21mm/42mm/84mm/42mm/42mm/42mm/42mm/63mm/84mm/63mm/42mm/42mm/21mm/21mm; cell-counts:35; border-width:1; cell-span:3; table-border:1; hide-border:1"
+                   name="" code="" codeSystem="" table-align="left">
+                <cell props="left-attach:0; right-attach:2; top-attach:0; bot-attach:1" draw-left="1" left-pad="3"
+                      right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" elem-style="normal">入院日期：
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:-13" name="入院日期" code="" codeSystem="">
+                            2014-05-04
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:4; top-attach:0; bot-attach:1" draw-right="1" left-pad="3"
+                      right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" elem-style="normal">入院诊断:
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">
+                            心律失常，预激综合征
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:4; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" elem-style="normal">主诉：
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">
+                            发作性胸闷心悸7天
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem=""></c>
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">入院方式：
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="1|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">急诊</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">平诊</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">步行</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">轮椅</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">平车</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">文化程度：
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">文盲</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">学龄前</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">小学</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">初中</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">高中</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">大专</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">大学及以上
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">宗教：
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">无</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">有:</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                        <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="">职业:
+                        </c>
+                        <c props="text-type:micro; font-family:宋体; font-size:-13" name="职业" code="" codeSystem="">
+                            专业技术人员
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:2; bot-attach:3" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">言 语</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:2; bot-attach:3" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">清晰</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">含糊</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">失语</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:3; bot-attach:4" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">意 识</c>
+                    </p>
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">表 情</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:3; bot-attach:4" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">清</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">嗜睡</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="√|□" values="0|1">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">模糊</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">烦躁</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">昏迷</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">平静</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">焦虑</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">恐惧</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">痛苦</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:4; bot-attach:5" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">循 环</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:4; bot-attach:5" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">脉律齐</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">脉律不齐
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">心慌</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">胸闷</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">起搏器</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">置管:</c>
+                        <c props="text-type:format; font-family:宋体; font-size:-13" name="日期" code="" codeSystem=""
+                           mask="yyyy年MM月dd日" format-type="datetime">年 月 日
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:5; bot-attach:6" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">呼 吸</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:5; bot-attach:6" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">正常</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">不规则</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">气促</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">困难</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">咳嗽</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">咳痰</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">咳血</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">
+                            半卧位/端坐呼吸
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">气管切开
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">气管插管
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">呼吸机辅助
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">吸氧</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:6; bot-attach:7" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">皮 肤</c>
+                    </p>
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">粘 膜</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:6; bot-attach:7" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">正常</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">潮红</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">苍白</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">黄染</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">紫绀</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">皮疹</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">水肿 部位
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">完整</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">压疮
+                            部位：
+                        </c>
+                        <c props="text-type:multy; font-family:宋体; font-size:-13" name="" code="" codeSystem=""
+                           items="骶尾部 面积：  ×   cm2|肩胛部 面积：  ×   cm2|足跟部 面积：  ×   cm2|髋部 面积：  ×   cm2|面积：  ×   cm2"
+                           values="0|0|0|0|1" groups="0|0|0|0|1">面积： × cm2
+                        </c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">破损/外伤
+                            部位：
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">面积:</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">×</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">cm2</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:7; bot-attach:8" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">饮 食</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:7; bot-attach:8" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">食欲：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="1|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">正常</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">减低</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">增加</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">
+                            鼻饲（留置日期
+                        </c>
+                        <c props="text-type:format; font-family:宋体; font-size:-13" name="日期" code="" codeSystem=""
+                           mask="yyyy年MM月dd日" format-type="datetime">年 月 日
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">)</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">忌食：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">无</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">有 种类：
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:8; bot-attach:9" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">过 敏</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:8; bot-attach:9" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">食物：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">无</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">有:</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">药物：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">无</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">有:</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:9; bot-attach:10" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">视 力</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:9; bot-attach:10" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">左眼：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">清晰</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">近视</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">老花</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">失明</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">右眼：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">清晰</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">近视</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">老花</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">失明</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:10; bot-attach:11" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">听 力</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:10; bot-attach:11" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">左耳：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">清晰</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">听力下降
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">失聪</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">右耳：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">清晰</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">听力下降
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">失聪</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:11; bot-attach:12" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">活 动</c>
+                    </p>
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">休 息</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:11; bot-attach:12" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">活动能力：
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">行动正常
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">使用助行器
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">残疾</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">无法行动
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">有跌倒史
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">
+                            自理能力（1-3级）：
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">完全依赖
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">协助</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">自理</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">睡眠：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">正常</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">失眠</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">服镇静剂
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:12; bot-attach:13" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">排 泄</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:12; bot-attach:13" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">排尿：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">正常</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">失禁</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">尿潴留</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">排尿困难
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">尿频</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">
+                            尿管（置管日期
+                        </c>
+                        <c props="text-type:format; font-family:宋体; font-size:-13" name="日期" code="" codeSystem=""
+                           mask="yyyy年MM月dd日" format-type="datetime">年 月 日
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">)</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">排便：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">正常</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">
+                            便秘（1次/__日，用 辅助排便）
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">失禁</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">腹泻</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">肠造口</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他：</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">呕吐</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">引流</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:13; bot-attach:14" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">风险评估
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:13; bot-attach:14" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">压疮高危：
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">是 评分：
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">分</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">
+                            跌倒/坠床高危：
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">是 评分：
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">分</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他高危：
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">否</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">是:</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">评分：</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">分</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:14; bot-attach:15" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">吸 烟</c>
+                    </p>
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">饮 酒</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:14; bot-attach:15" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">不吸</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">吸烟 每日 包
+                            已吸 年
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">已戒烟</c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">不饮</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="1|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">偶饮</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">大量 每日 两
+                            已喝 年
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">已戒酒</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:15; bot-attach:16" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">既往史</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:15; bot-attach:16" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">无</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">有:</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem=""></c>
+                    </p>
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">长期用药：
+                        </c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">无</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">有
+                            主要用药:
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:16; bot-attach:17" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">家族史</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:16; bot-attach:17" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">无</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">高血压</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" select-oper="true" items="□|√" values="0|1">√
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">心脏病</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">糖尿病</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">肿瘤</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">精神病</c>
+                        <c props="text-type:single; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                           codeSystem="" items="□|√" values="0|0">□
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">其他:</c>
+                    </p>
+                </cell>
+                <cell props="left-attach:0; right-attach:1; top-attach:17; bot-attach:18" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">专科情况
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:4; top-attach:17; bot-attach:18" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="3" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:single; font-family:宋体; font-size:-13" name="" code="" codeSystem=""
+                           items="\mark1 其他\mark0 |\keyword1 月经史\keyword0 " values="1|0">其他
+                        </c>
+                    </p>
+                </cell>
+            </table>
+            <p props="text-align:both; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+            </p>
+            <p props="text-align:both; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                   codeSystem="">责任护士签名:魏娟
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">日期</c>
+                <c props="text-type:format; font-family:宋体; font-size:-13" name="日期" code="" codeSystem=""
+                   mask="yyyy年MM月dd日" format-type="datetime" select-oper="true">2014年05月04日
+                </c>
+                <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:-13" name="" code=""
+                   codeSystem="">护士长/上级护士审核签名:袁武娟
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-13" name="" code="" codeSystem="">日期</c>
+                <c props="text-type:format; font-family:宋体; font-size:-13" name="日期" code="" codeSystem=""
+                   mask="yyyy年MM月dd日" format-type="datetime" select-oper="true">2014年05月04日
+                </c>
+            </p>
+            <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem="">第1页</c>
+            </p>
+        </content>
+    </section>
+</epr>

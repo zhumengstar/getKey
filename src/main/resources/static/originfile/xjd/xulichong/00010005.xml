@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="GB2312"?><!-- ======================================================================== --><!-- This file is an Electric Patient Record.                                 --><!-- Created by EPRPad v3.0 Serial,Copyright (c) 2006 陈联忠.                 --><!-- More information about EPRPad is available at http://www.EprExpert.com/  --><!-- You should not edit this file by hand.                                   --><!-- ======================================================================== -->
+<epr props="doc-type:normal" name="" code="" id="" default-font-name="宋体" default-font-size="16" default-line-span="10">
+    <pagesize pagetype="A4" orientation="portrait" width="210" height="297" margin-top="38" margin-bottom="15"
+              margin-left="15" margin-right="15" margin-header="18.0" margin-footer="0.0" margin-bind="0.0"
+              double-face="true" header-style="0" draw-shading-type="0" bind-position="0" page-scale="1.000000"
+              units="mm" page-start-number="1"/>
+    <section name="" section-header-footer-fieldelem="病区|科室|床号">
+<!--        <micro Hospital="西 安 交 通 大 学 第 一 附 属 医 院" 出生地="出生地" 科室="心血管内科2病房"-->
+<!--        0000832219="" 性别="男" 住院号="0001151795" 001-01="" 病区="病区" 职业="专业技术人员" 年龄="24岁" SubTitle="病 程 记 录" 床号="8002028"-->
+<!--        入院情况="入院情况" 记录日期="2014-05-05" 姓名="强国力"/>-->
+        <revisions>
+            <r ID="1" authorization="0" FragmentID="5" name="刘平" code="007696" time="2014-05-04 11:24:55"
+               terminal="心内2医办11242"/>
+            <r ID="2" authorization="0" FragmentID="0" name="刘平" code="007696" time="2014-05-05 08:47:13"
+               terminal="心内2医办11242"/>
+            <r ID="3" authorization="0" FragmentID="0" name="刘平" code="007696" time="2014-05-05 08:48:14"
+               terminal="心内2医办11242"/>
+            <r ID="4" authorization="0" FragmentID="5" name="刘平" code="007696" time="2014-05-05 08:50:46"
+               terminal="心内2医办11242"/>
+            <r ID="5" authorization="0" FragmentID="11" name="刘平" code="007696" time="2014-05-05 08:51:31"
+               terminal="心内2医办11242"/>
+            <r ID="6" authorization="0" FragmentID="0" name="刘平" code="007696" time="2014-05-05 14:32:29"
+               terminal="住11252"/>
+            <r ID="7" authorization="0" FragmentID="0" name="孙超峰" code="000404" time="2014-05-05 22:52:50"
+               terminal="住11252"/>
+            <r ID="8" authorization="0" FragmentID="0" name="孙超峰" code="000404" time="2014-05-05 23:03:19"
+               terminal="住11252"/>
+            <r ID="9" authorization="0" FragmentID="12" name="刘平" code="007696" time="2014-05-05 23:03:55"
+               terminal="住11252"/>
+            <r ID="10" authorization="0" FragmentID="12" name="刘平" code="007696" time="2014-05-07 16:51:21"
+               terminal="心内2医办11243"/>
+            <r ID="11" authorization="0" FragmentID="0" name="刘平" code="007696" time="2014-05-07 16:52:07"
+               terminal="心内2医办11243"/>
+            <r ID="12" authorization="0" FragmentID="0" name="刘平" code="007696" time="2014-05-07 17:04:00"
+               terminal="心内2医办11243"/>
+            <r ID="13" authorization="0" FragmentID="0" name="刘平" code="007696" time="2014-05-07 17:04:18"
+               terminal="心内2医办11243"/>
+            <r ID="14" authorization="0" FragmentID="17" name="刘平" code="007696" time="2014-05-07 17:07:45"
+               terminal="心内2医办11243"/>
+            <r ID="15" authorization="0" FragmentID="18" name="刘平" code="007696" time="2014-05-07 17:08:45"
+               terminal="心内2医办11243"/>
+        </revisions>
+        <sectionversions></sectionversions>
+        <sectionauthors></sectionauthors>
+        <fixheader header-line="fasle">
+            <table props="table-column-widths:120mm/464mm/40mm; table-row-heights:26mm/30mm; cell-counts:5; border-width:1; cell-span:5"
+                   name="" code="" codeSystem="" table-align="center">
+                <cell props="left-attach:0; right-attach:1; top-attach:0; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:right; line-height:10; margin-left:0; margin-right:0; margin-indent:0"
+                       fix-height="10"><image mime-type="image/bmp" base64="yes" file="jdyfy.bmp" base64-size="20084"
+                                              draw-mark-count="0" height="67" width="74" show-height="67"
+                                              show-width="74" file-size="15062" name="" code="" codeSystem=""/>
+                        Qk3WOgAAAAAAADYAAAAoAAAASgAAAEMAAAABABgAAAAAAKA6AAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////n48vz8+f///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////6OPI5d/A9vTq////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////f2bHd16/o5cz////////////////////////////////////////////////////////////////////4+vXf6NL///////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////Px48vBhL+yZNzXsP///////////////////////////////////////////////////////////////////+/06b/SpP///////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////5d++s6VMppQVtKtU////5OLE9/fu/////////////////////////////////////////////////P370Ny54OjTus6e3+nT+/36////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////n4sOxokWcjAyfkiHo5czV0aHx8eP////////////////////////////////////////////////z9u2huXTM2rWCp06PtGby9+7///////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////+fiwberXZ2NE5uMCbixYM3IkeTixdzbuP7+/f////////////////////////////////7+/vb48e/z5qi/f7rOm3inOZq5c/7//v///////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////5N67tKZSnY8XlocGpZo0sapY4uDB0M6e/Pz5////////////////////////////////+fr11d6+1uHAkK1dnbhzdaM3n716////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////p5MipmTKbiw+VhweilyepokvKyJLk48n////////////////////////3+PH7/Pr////19+7L162+z52HqE2Dp0lzoDWOsWL4+vb///////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////+7q1p+MFZmIBpWHCKCVKK+pV5eRFbq4bvf37/7+/f///////////////9HXr+bq1c7Wrezw4LXFipCrV3qfNnadNnOgN4SsV/X48f///////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////9PLlpJAdmYgGlocJm48cpZ4+lI4Np6VI1dWt/f37/////////////v7+19y75urVmqtV5OnUk6tWg6M/dZowdJw0dKE4psOF/v/+////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////x7t6hjxmaiAeWiAuViQyTiQ6Riw+YlSSvrVz39+/////////////////3+PLy9OqVqE2vv32Opk2FpER1mzB0nDV0ojm+06X///////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////+zo0KCNFJmIB5aIC5WJDZOKDpGKD56bMpeYMejo0P////////////P06sLKlbfChYedN4ulPYGdNX+eO3WbMnSdNHWiOLbOmv///////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////+/r0rJw0mokGlogLlYkNk4oPkYoPmZcrlZYo3N269PTq8/Pp////4+fQxs2cmKlRhZsugZwzgp45fp45dpsydJ00dKE5w9as////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////+/fy0pUebigaWiAuViQ2Tig+SjBGPixGQkBjIyJfl58/Mz6Dv8OH8/fv////I0KKCmil9lymUqld8nTZ1mzF0nTR0oDjJ2rT///////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////X06aeWKZqIBpaIC5WJDZOKD5KMEY+ME5CQG66vaLm7eo6XJ7W7ePb38NrfwLvGjIGZKX6YKoiiQ3ucNHabMXSdNHWhOcHVqf////j69vT48fX58+3z6eXu4dfo0ufy5fz++////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////9vXsr545m4oHlogLlYkNk4oPkowRj4wUjo4Ymp06lJozjpchs7hz2N28nqpYj6FBf5cofZcqepkseZovdZsyc500c585yNq0////9fjy8Pbs8vbu3ejXy9vDsNCnpMmct9a0wdy/1OjU4/Hk9fr16PPr5/Pq////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////CtmiejAeWiAuViQ2Tig+SjBGPjBSOjRaTlSmWmzWLlB+stGrd4sfb38Cqt22Cmih9mCp7mS14mi92mzJ0nTRznTnW48f////////////6/Pn09/Hl8OHi7d7V4tK81bnF4MO41bmZypyazqCn1K6d0Keh1a7F58////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////8O3a56MB5aIC5WJDZOKD5KMEY+MFI2NFpudPI6TJomRHpqjRcLJk/b38Ke1aYKbKH2YKnqYLHmaMHabMnSeNX+nSNDfvv////////////7+/vb59e727eHu3tvo2MTbw7XWsr3YvZ/Pop3RonTBgVq8b2zGg3HCibXhxPr9+////////////////////wAA//////////////////////////////////////////////////79////////////////////////////////////////////////////////0MeNnYsJl4gLlYkNk4oPkowRj4wUjo0WjpEfi5EfiZEgkZwulKFA7e/fkaNEgZkpfZcqepgseZowdpsyd6E2sMmO/v79/////////////////////////f789vn17vTt0OPOw9vCnsyhjcWTc7+AVLRpTbRoZMGAbMSKl9eu+/38////////////////AAD////////////////////////////////////////8+PPVtHfHnkziz6j////////////////////////////////////////////////////Z0qSaiQmXiAuViQ2Tig+SjBGPjRSOjReLjxqJjxyOlSijq1OXo0ba3sGLnjmAlyd9mCp6mCx5mjB2mzJ2nzbF1av////////////////////////////////////////Q5tCQx5KSy5V5voBnuHVUtWprvoBMtmtUvXhqx4yc2rX///////////////8AAP////////////////////////////////Pp2N/GmsWYRrZ3Arh7ALN+E+HOpPXv4v///////////////////////////////////////////9vUppqJCJeIC5WJDZOKD5KMEY+NFI6NF4yPG4mOG4+XLb/FiZGeO663d4aZMX6WJn2YKnqYLHmaMHecMneeOuPq1////////////////////////////////////////9Po0q/Wr4zFkWm3c163bUuyYV65dWW+gDiyYmHDhWDBiMrs2P///////////wAA////////////////////////+/jz2LiCu4Efs3QCt3YAsHMArnQAsHcArXkDuI0oyatg6d3A/fz6////////////////////////////////5eDAmYkMl4gKlYkNk4oPkowRj40Ujo0XjI8biY4bk5o01dmxjZoymaZOg5cqf5YofZgqepgseZowd5wyeZ876O7f////////////////////////////////////////////////5fLlpdOsZsB1SbJgR7JiXLt5XL19PbZqa8qSdM2b////////////AAD////////////////////48+rMn1i6dAK3cgCycgCwcgCvcwCudACtdQCueACxfACyfwGwhx2/nkfk2LX////////////////////////////k372aiAyXiQqViQ2Tig+SjBGPjRSOjReMjxuHjBeSmjPY3LeJliuClCOBlCV/lih9mCp6mCx5mjB2nDJ1njfW4sT////////////////////////////////////////////////////4+fe3271iuXRFsmFBs2Nlv4M+t2tMvXlVw4T6/fz///////8AAP////////////////v49MubU7xyAbRwALFwALBxALByAK9zAK50AK11AKx3AKt4AKl5AKx9ALCCALGMItC8e+zmzv///////////////////9bOnJyKCZeICpWJDZOKD5KMEY+NFI6NF4uNGZGVKp+lSuPmzIyZMIGTIYGVJn+WKH2YKnqYLHmaMHabMnSdNszbt/////////////////////////////////////////////////////////v9+7XcvVy6dD6yYUe2bUq6dDq3bFjIiOj37v///////wAA////////////+vbw0KRkum8CtW0As28AsXAAsHEAsHIAr3MArnQArXUArHcAq3gAqXkAqHoApnsAqH8ArIQBro0g3c+h+ffv////////////7urWopIimIoJlYkNk4oPkowRj40UjY0VkZMkwsaMpKpT6OrUjJkugpMhgZUnf5YofZgqepgseZowd50yfKNB7vPn////////////////////////////////////////////////////////////5fPoeMKLQLRjQLVoTrt2NbZpPMB11fHi////////AAD////////////SpWe8bwG2bAC0bQCzbwCxcACwcQCwcgCvcwCudACtdQCsdwCreACpeQCoegCmewCmfAClfgCnggCigQO1nDrIuXHn4cP///////+uokGZiwmViQ2Tig+SjBGPjRSNjBWTlijf4cLHy5bZ3bmMmTB+jxqAlSZ/lih9mCp6mCx5mjB3nTJ9o0Lp7+D////////////////////////////////////////////////////////////w+PFzwIZAtGM8tGU5tWg1tmkzvm/S8OD///////8AAP////////HizrhwDLhsALRsALRtALNvALFwALBxALByAK9zAK50AK11AKx3AKt4AKl5AKh6AKZ7AKV8AKR9AKJ/AKKBAKWFAKeIAKWMFMCxYNjQoaOVJZeJCZWJDZOKD5KMEY+MFI6OF4uOGKmtWdfatN/jxtXasqazYoGWJ36WJ32YKnqYLHmaMHacMnWeN+Dp0////////////////////////////////////////////////////////////87m02K9ej+zYj2zZj62azS2aUjBfdXx4v///////wAA////////4sWfvG0CtmsAtWwAtG0As28AsXAAsHEAsHIAr3MArnQArXUArHcAq3gAqXkAqHoApnsApXwApH0Aon8AoIAAn4AAn4IAoYYAoooDnIgHmogKl4gKlYkNk4oPkowRj4wUjo4Xi48agYgNlZw33eHA1Nmy9PbukqNEfJUkfZgqepgseZowd50xgadI7fLn////////////////////////////////////////////////////////v+LFdMGFS7VmP7NiRLZrQrhuNrdrUcCA+P36////////AAD////////t2L+4bgm7bgG7cAG8cQC2cQCycACwcQCwcgCvcwCudACtdQCsdwCreACpeQCoegCmewClfACkfQCifwCggACfgACfggCdhAGbgwObhgWYhwaWiAuViQ2Tig+SjBGPjRSOjReJixWSmC+1uXLs793V2rTu8eKOoD19lSV9mCp6mCx4mS6EqEOqwoP+/v7////////////////////////////////////////////////+/v7G48pounVMtWNDsF8/smJEtmo+t2s7u29px5H///////////8AAP////////78+ubNrN+/k9audMmXSLRzCrh0ALFxALByAK9zAK50AK11AKx3AKt4AKl5AKh6AKZ7AKV8AKR9AKJ/AKCAAJ+AAJ+CAJ2EAZuDA5qFBpiHB5aIC5WJDZOKD5KMEY+MFIyLFKOlSObnz+Xo0O7x4b7GipyqUoCUJH+WKH2YKnuYLXibLpWyYt7m0P///////////////////////////////////////////////+by5qrUrWq6clC0YEewXkSxYECzYzy0Zji1Zzm7bZrbtf///////////wAA/////////////////////////fr36da4x5tQtnQCtHQAsHMArnQArXYArXcArnkAqnkAqHoApnsApXwApH0Aon8AoIAAn4AAn4IAnYQBm4MDmoUGmIcHlogLlYkNk4oPkowRj4wTjYwV19ix+vr2ub577/HilKFAfI0XgZUmf5YofZgqepgsfKAwscWL////////////////////////////////////////////3+vexNvBgL6AXrZkULFbSa5bSLBfRLFgQLNjPbRlOrZqRLt02PHi////////////AAD////////////////////////////////8+PPavYy3fRa3eAGzdwCudgCueAOtfguufAGoegCmewClfACkfQCifwCggACfgACfggCdhAGbgwOahQaYhweWiAuViQ2Tig+SjBGPjBONjBXT06j+/v7M0J7b376ZpUd+jxt8kR9+lSd9mCp7mSx7nTCZtGjK2rPO3brR4MDP3r7S4sXa6dHN4cLA2rWjy5S72bLP5ct6uHNuvGtWsFhPrVZNrlhKr1xIsF9EsWBAsmM+tGZJv3VyyJT2+/j///////////8AAP///////////////////////////////////////+nZutS0er2OMLR7AraIJeXWs8ywa6h7AqZ7AKV8AKR9AKJ/AKCAAJ+AAJ+CAJ2EAZuDA5qFBpiHB5aIC5WJDZOKD5KMEY+MFIyME52fPd7gwPv7+PDx4+Xo0MjQn5yrVH2VJXyXKXqZLHmaMHacMnefNnSgOXCfOm6hPmuhP2+lR2ajQ2WoRmauTGOqT2SsVleqTlOqT1KrVVCtV06uWUqvXEiwX0SyYT+yYka7bmrDi9Lt3P///////////////wAA////////////////////////////////////////////////9u/i28OR4tGr////6t/GqHwGp3wApXwApH0Aon8AoIAAn4AAn4IAnYQBm4MDmoUGmIcHlogLlYkNk4oPkowRj4wUjo4XiYwVj5Qntrt14+XK4eXK9PXr8/XrrLt0epYmepkseZowdpwydZ00c6A3cKA5bqI8a6M/aqVAZqZCZKdEYKZIX6lKXqtNWalQVqtSU6tVUK1XTq5ZSq9cRrBdQ7FgRLpoWb98z+va////////////////////AAD////////////////////////////////////////////////////////////////y7d6pfQqpfQClfACkfQCifwCggACjgwCniAChhwCbhAKahQWYhweWiAuViQ2Tig+SjBGQjRSOjRaIjBR+hQihp0vv8OCapUmirlv////h5s1+mCt6mSt5mjB2mzJ0nDRynjdvnjltoDxqoT5ooj9lpEFjpURgpkhfp0pcqExZqVBWq1JTq1VQrVdNrllJr1tLs2FOu2prwoXJ59P///////////////////////8AAP////////////////////////////////////////////////////////////////z798GkUK6BAqqAAKV+AKR/AKeFAKuQH8CsWq+aMZyFBJqFA5iHB5WHCJWJDZOKD5KMEY+LEoqKD5aZL6itWb7Bgvb378rRoN3ixP///8jSo3uWJ3qZLHmaMHabMnScNHKeN2+eOW2gPGqhPmiiP2WkQWOlRGCmSF+nSlyoTFmpUFasUlOsVU2tVFC0XFe4aGG8dHfFi9zw4v///////////////////////////wAA////////////////////////////////////////////////////////////////////+fbv072Bso4iqoMCqIQEtp0559/A////z8OFrJYirJw0mYgJnI8blYkOk4oPkYsQj4wUublw7u7d/f375ujQ8/Xq4eXK6u3byNKhip87e5YnepgteZowdpsydJw0cp43b545baA8aqE+aKI/ZaRBYqVEYaZIXqdJW6dLWKlPVq1SWbFbaLhtlM2bu97BqNey1u3c////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////u6NTYyJXbzp/m3r3////////d1amvnjiolSWhjw6xpkeXixGTig6PiQynpEX6+vbw8OG8v3/BxYr4+fOps2WKmjF/lCN8lCR9mCp6mCx5mjB2mzJ0nDRynjdvnjltoDxpoT1koTtioz5hpUJkrUlkrk9jsFRhs1iIw4W93r693L/v9vD////6/fr+//////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////v////////////Lv3tfPnq2gO6WYLZWJD5OKD46ICrOxXv///7i6dHmBAKyxYf39+6CsVXyNF36TIn+WKH2YKnqYLHmaMHabMnScNHKeN2+eOG2gO3GmRoKzYI2+cnavXIa7cpnDjZTDionBg9Ln0P////////v9+////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////9vXr5uPGn5QllIwOkYoOmpcp6urT5efPn6RHrbJj9fbtn6tTe4wVfpIheZIffJcoe5kteJkvdp0zeaM2d6Y4dac8caU9dqlNssyg2OTRttKp8Pbt+Pr37fTr8/ny/v7+////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////5+fKjly6VjA6SixKNihChoT7a27br7Nnd37/f4sTDypXDy5TM1Kesu3SBmzJ6mCx6nDCWs2SsxIigvXijwYGzzZnN377w9ez////7/Pr///////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////j38aOaMpWND5KMEY+MFIqKEI2QHqKmS8fLleTnztbbt+bp0vX37tzjxY6nSXiYKXyfMbHGi////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+/r2pp03l40PkowRj4wUjo4Xio0XgogOsbZs+Pn0pa9eiJgtk6NEiZ44fpgsepksfJ8xuMuV////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+/v21rViXjQ6SjBGPjRSOjheMjxqFixS1unT///+stmp7jRZ9kR98lCN9lyl6mSx8nzG/0KD///////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7qyYpeODpKMEI+NFI6OF4qOGJGWK9vevP///9XatIeYLICUJX+WKH2YKnuZLXydMczas////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////taxYmI4OkowQj40Ujo4XiYwVpKdO/////////P36lqVHfpMif5cofZgqe5kteZsx1+HD////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////v7JxIedkxCVjhCQjhSOjheLjRmSlyzT167w8uTM06WImC2AlCR/lih9lyp7mS15mzDV4MH///////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Tz5rq1aZiSHpGPFI6OFoyPG4mOG4yUJpSfPIeUJ4KTI4GVJ3+WKH2YKnuaLXmZMNzly////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////5OPGtbVokZEYjI8bio8dh48ego8bg5Agg5QkgZUnf5YofZgqfZwuk6tY9ffw////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////a2rORkRqMjxuKjx2JkSGGkiKFkiODlCSBlSd/lih+mSp8mi7a4sb///////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9nYr5CPGIyPG4qPHYmRIYaSIoWSI4OUJIGVJ3+WKH2aKrTEif7+/v///////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////6OfPkZEdjpEbio8diZEhhpIihZIjg5QkgZUngZkojaRH9vjw////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////t7Nqopk6PkSGLkR2IkSCGkiKFkiODlCSClSeGnyq4xoz///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9nYstfXsJufPo2THoiRIIaSIoWSI4SVJIecKZaqUOvv3v///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////3dy63t69ycqVur56jJQihpIhhpMjhZcnsLx46u7c////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////v/+/v7+/v7m59CMlCaIlCKHlCOPnjr09e3///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////T065ykR4mVI4aUI4eXK+Lnzf///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+vr26evXuL99h5UjhZYm1927////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8/PvP0qeJmCSLmzbv8eX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////87Tp4qaJaKuXfv8+P///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////zNGktr998PLm/v7+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////HzJnj5Mz///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+vs2/r69f///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAA=
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:2; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0"
+                       fix-height="13">
+                        <c props="text-type:micro; font-weight:bold; font-decoration:underline; font-underlinetype:0; font-family:宋体; font-size:-18"
+                           name="Hospital" code="" codeSystem="">西 安 交 通 大 学 第 一 附 属 医 院
+                        </c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:3; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:1; right-attach:2; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0"
+                       fix-height="15">
+                        <c props="text-type:micro; font-weight:bold; font-family:宋体; font-size:-21" name="SubTitle"
+                           code="" codeSystem="">病 程 记 录
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+                <cell props="left-attach:2; right-attach:3; top-attach:1; bot-attach:2" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="5" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem=""></c>
+                    </p>
+                </cell>
+            </table>
+        </fixheader>
+        <header>
+            <table props="table-column-widths:142mm/88mm/186mm/116mm/148mm; table-row-heights:21mm; cell-counts:1; border-width:1; cell-span:0"
+                   name="" code="" codeSystem="" table-align="left">
+                <cell props="left-attach:0; right-attach:5; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1"
+                      draw-right="1" draw-top="1" left-pad="0" right-pad="8" fill-style="0" fill-bgcolor="16777215">
+                    <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">姓名:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="姓名" code="" codeSystem="">强国力</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">性别:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="性别" code="" codeSystem="">男</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">科别:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="科室" code="" codeSystem="">
+                            心血管内科2病房
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">床号:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="床号" code="" codeSystem="">
+                            8002028
+                        </c>
+                        <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">住院号:</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="住院号" code="" codeSystem="">
+                            0001151795
+                        </c>
+                    </p>
+                </cell>
+            </table>
+        </header>
+        <content>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="病程记录5" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2014-05-04 10:09
+                </c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="标题" code=""
+                   codeSystem="" elem-style="normal">　　　　　 首次病程记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:micro; font-family:宋体; font-size:-16" name="姓名" code="" codeSystem="">强国力</c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">，</c>
+                <c props="text-type:micro; font-family:宋体; font-size:-16" name="性别" code="" codeSystem="">男</c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">，</c>
+                <c props="text-type:micro; font-family:宋体; font-size:-16" name="年龄" code="" codeSystem="">24岁</c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">。以&quot;阵发性心慌3年，加重1周&quot;之主诉入院。</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="病历特点" code=""
+                   codeSystem="" layer-no="2" elem-style="normal">病例特点：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    3年前无明显诱因于休息时出现心慌，伴自觉憋气、心前区闷痛，持续2小时左右，无畏寒发热、咳嗽、咳痰，曾就诊于当地医院，行心电图检查示预激综合征，心率约73次/分，未予特殊治疗，经休息可缓解。上述症状反复发作，发作频率在3-5次/月，1周前患者上症频繁发作，约1-2次/天，今为求进一步诊治住入我院。自发病以来，食欲正常，睡眠欠佳，大小便正常，体重56Kg。既往无明确心脏病史。查体：T：36.6℃，P：78次/分，R：20次/分，Bp：110/70mmHg。双肺呼吸音清晰，未闻及明显干、湿性啰音及胸膜摩擦音。心界叩诊不大，心率78次/分，律齐，A2&gt;P2，各瓣膜听诊区未闻及杂音。脉搏78次/分，无脉搏短绌。腹平坦，腹部柔软，无压痛、反跳痛。肝脾肋下未触及，Murphy氏征阴性。双下肢无水肿。入院
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    心电图(2014-05-04，本院)：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    窦性心律，电轴左偏，心率61次/分，A型预激综合征。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="拟诊讨论：" code=""
+                   codeSystem="" layer-no="2" elem-style="normal">拟诊讨论：
+                </c>
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="初步诊断" code="" codeSystem="" layer-no="2"
+                   elem-style="button">初步诊断：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">心律失常 A型预激综合征
+                </c>
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="诊断依据" code="" codeSystem="" layer-no="2"
+                   elem-style="button">诊断依据：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">1.患者青年男性，以&quot;阵发性心慌3年，加重1周&quot;之主诉入院，既往无明确心脏病史。2.心肺查体未见明显异常。3.入院心电图示：窦性心律，电轴左偏，心率61次/分，A型预激综合征。</c>
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="鉴别诊断" code="" codeSystem="" layer-no="2"
+                   elem-style="button">鉴别诊断：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    1.窦性心动过速：可于情绪激动、劳累、紧张、发热等引起，发作时心电图可见窦性P波可鉴别。2.房颤：发作时可有心慌、胸闷等症状，可有较快心率，心电图见P波消失，代之以大小不等的f波，根据发作时的心电图可鉴别。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:24" readonly="true">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:-16" name="诊疗计划" code=""
+                   codeSystem="" layer-no="2" elem-style="button">诊疗计划：
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    孙超峰主任医师、刘平主治医师查看病人后示：1.结合患者病史、症状、体格检查及心电图，考虑目前诊断；2.诊疗计划：1.患者反复发作心慌，伴自觉憋气、心前区闷痛，近1周明显加重，暂予营养心肌等治疗；2.完善相关检查，拟明日行心脏电生理检查+射频消融术。密观病情变化。遵嘱执行。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">刘平
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true"
+               line-header-footer-field="床号:8002028;病区:心血管内科2护站;科室:心血管内科2病房">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录11" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2014-05-05 08:47
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">术前小结
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0"
+               paragraphbegin="true" readonly="true">
+                <c props="text-type:micro; font-family:宋体; font-size:16" name="姓名" code="" codeSystem="">强国力</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">，</c>
+                <c props="text-type:micro; font-family:宋体; font-size:16" name="性别" code="" codeSystem="">男</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">，</c>
+                <c props="text-type:micro; font-family:宋体; font-size:16" name="年龄" code="" codeSystem="">24岁</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">。</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0"
+               paragraphbegin="true" paragraphend="true" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">术前诊断：心律失常
+                    A型预激综合征
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0"
+               paragraphend="true" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">诊断依据：1.患者青年男性，以&quot;阵发性心慌3年，加重1周&quot;之主诉入院，既往无明确心脏病史。2.心肺查体未见明显异常。3.入院心电图示：窦性心律，电轴左偏，心率61次/分，A型预激综合征。</c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    手术指征：青年男性患者，阵发性心慌3年，症状反复发作，1周前患者上症频繁发作，心电图提示“A型预激综合征”，应行腔内电生理检查+射频消融手术治疗。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    术前准备：1.各项术前常规检查已做，未见手术禁忌。2.已向家属告知病情，手术必要性及术中术后可能的危险及并发症，家属表示理解，手术同意书已签。3.孙超峰主任医师、白玲副主任医师、刘平主治医师看过病人后指示：患者有行手术适应症，无绝对禁忌症。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0"
+               paragraphbegin="true" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    拟施手术名称和方式：腔内电生理检查+射频消融手术
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0"
+               paragraphend="true" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">拟施麻醉方式：局麻+心电监护
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    术中注意事项：手术操作仔细，减少副损伤。
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    患者目前病情平稳，术前检查基本完备，凝血功能、胸片基本正常，可行手术。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">刘平
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true"
+               line-header-footer-field="床号:8002028;科室:心血管内科2病房;病区:心血管内科2护站">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录13" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2014-05-05 13:00
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">术后首次病程记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    今日患者在局麻下行腔内电生理检查+射频消融术，常规消毒铺巾，心电监护，1%利多卡因局部麻醉。送入标测电极同时静脉给予肝素3000单位：穿刺右锁骨下静脉，送十级电极由冠状窦口至冠状静脉远端；穿刺右股静脉，送入四级电极至右心室作为刺激电极。穿刺右股静脉，送入四级电极至希氏束。体表心电图提示：V1呈rS型，Ⅱ呈RS型，Ⅲ、avF呈QS型。电生理检查正常窦性心律时，于CS电极9,10出现A波最早。心室S1S1刺激，于CS电极9,10出现A波最早，心室程序刺激未见递减传导及跳跃现象。心室S1S2程序刺激未见跳跃现象。标测结果显示：右侧旁道。穿刺右侧股静脉，送大头电极于三尖瓣，标测靶点于三尖瓣约11点位置最早激动，于该处行射频消融。20W放电2s后无AV延长，心室S1S1刺激VA完全分离。继续巩固放电累计时间800s，心室S1S1刺激VA完全分离。手术成功，拔除鞘管，加压包扎，安返病房。嘱注意伤口及生命体征。结论：室上性心动过速，房室折返性心动过速射频消融手术成功。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">孙超峰
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true"
+               line-header-footer-field="床号:8002028;科室:心血管内科2病房;病区:心血管内科2护站">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录12" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2014-05-05 13:32
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">主治医师查房记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    今日患者在局麻下行腔内电生理检查+射频消融术，结论：室上性心动过速，房室折返性心动过速射频消融手术成功。复查心电图示：A型预激综合征，较术前心电图预激波波宽减小。刘平主治医师查过病人后示：1.诊断明确，室上性心动过速，房室折返性心动过速射频消融手术成功。2.复查血常规，注意预防肝素相关血小板减少症。3.向家属告知病情及术后注意事项。监测心率及心慌时心电图变化。遵嘱执行。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">刘平
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true"
+               line-header-footer-field="科室:心血管内科2病房">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录17" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2014-05-06 10:00
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">副主任医师查房记录
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    今日查房，诉昨晚胸痛发作，无心慌、头晕不适，一般状况良好。行心电图示：窦性心率，心率76次/分，电轴左偏，A型预激综合征，较术前心电图预激波波宽减小。伤口愈合良好。查体：生命体征平稳。牙龈粘膜未见出血点。双肺呼吸音清晰，未闻及干、湿性啰音。心率72次/分，律齐，A2&gt;P2。各瓣膜听诊区未闻及杂音。术后复查血常规未见明显异常。白玲副主任医师、刘平主治医师查房后示：诊断明确，室上性心动过速，房室折返性心动过速射频消融手术成功。术后胸痛发作时未再发作心动过速，复查血常规未见明显异常，无特殊不适，可予今日出院。出院医嘱：1.普通饮食，适量运动；
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">2.继服药物治疗：</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    阿司匹林（拜阿司匹灵）0.1g（1片）1次/日，1月后停药；
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    3.出院后监测心率（至少2次/日）；
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    4.1月后我科门诊复诊，如有不适，我科随诊。遵嘱执行。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">刘平
+                </c>
+            </p>
+            <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0" readonly="true"
+               line-header-footer-field="科室:心血管内科2病房">
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="病程记录18" code=""
+                   codeSystem="" layer-no="1" elem-style="normal">2014-05-06 11:04
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">　　　　　</c>
+                <c props="text-type:fix; font-weight:bold; font-family:宋体; font-size:16" name="标题" code="" codeSystem=""
+                   layer-no="2" elem-style="normal">出院小结
+                </c>
+            </p>
+            <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:32" readonly="true">
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">强国力，男，24岁。以&quot;阵发性心慌3年，加重1周&quot;之主诉入院。3年前无明显诱因于休息时出现心慌，伴自觉憋气、心前区闷痛，持续2小时左右，无畏寒发热、咳嗽、咳痰，曾就诊于当地医院，行心电图检查示预激综合征，心率约73次/分，未予特殊治疗，经休息可缓解。上述症状反复发作，发作频率在3-5次/月，1周前患者上症频繁发作，约1-2次/天，今为求进一步诊治住入我院。自发病以来，食欲正常，睡眠欠佳，大小便正常，体重56Kg。既往无明确心脏病史。查体：T：36.6℃，P：78次/分，R：20次/分，Bp：110/70mmHg。双肺呼吸音清晰，未闻及明显干、湿性啰音及胸膜摩擦音。心界叩诊不大，心率78次/分，律齐，A2&gt;P2，各瓣膜听诊区未闻及杂音。脉搏78次/分，无脉搏短绌。腹平坦，腹部柔软，无压痛、反跳痛。肝脾肋下未触及，Murphy氏征阴性。双下肢无水肿。入院心电图(2014-05-04，本院)：窦性心律，电轴左偏，心率61次/分，A型预激综合征。术后复查血常规未见明显异常。</c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">入院诊断：心律失常
+                    A型预激综合征。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    入院后查完善相关检查，未见明显异常。于2014-05-05，行腔内电生理检查+射频消融术，结论：室上性心动过速，房室折返性心动过速射频消融手术成功。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    出院时无心慌、头晕不适，一般状况良好。伤口愈合良好。生命体征平稳。牙龈粘膜未见出血点。双肺呼吸音清晰，未闻及干、湿性啰音。心率72次/分，律齐，A2&gt;P2。各瓣膜听诊区未闻及杂音。
+                </c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem=""></c>
+                <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">
+                    出院医嘱：1.普通饮食，适量运动；2.继服药物治疗：阿司匹林（拜阿司匹灵）0.1g（1片）1次/日，1月后停药；3.出院后监测心率（至少2次/日）；4.1月后我科门诊复诊，如有不适，我科随诊。出院诊断：心律失常
+                    A型预激综合征。
+                </c>
+            </p>
+            <p props="text-align:right; line-height:15; margin-left:0; margin-right:0; margin-indent:0" readonly="true">
+                <c props="text-type:fix; font-family:宋体; font-size:-16" name="病程签名" code="" codeSystem="" layer-no="2"
+                   elem-style="normal">刘平
+                </c>
+            </p>
+        </content>
+        <footer>
+            <p props="text-align:center; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">第</c>
+                <field props="field-type:pagenumber; font-family:宋体; font-size:16" name="" code="" codeSystem=""/>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">页</c>
+            </p>
+        </footer>
+    </section>
+</epr>
