@@ -102,7 +102,7 @@
                         <c props="text-type:normal; font-weight:bold; font-family:宋体; font-size:14" name="" code="" codeSystem="">手术潜在风险和对策</c>
                     </p>
                     <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
-                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem="">医生告知我如下胸腔镜肺切除或开胸肺切除手术可能发生的一些风险，有些不常见的风险可能没有在此列出，具体的手术术式根据不同病人的情况有所不同，医生告诉我可与我的医生讨论有关我手术的具体内容，如果我有特殊的问题可与我的医生讨论。</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem="">医生告知我如下胸腔镜肺切除或开胸肺切除手术可能发生的一些风险，有些不常见的风险可能没有在此列出，具体的手术术式根据不同病人的情况有所不同，医生告诉我可与我的医生讨论有关我手术的具体，如果我有特殊的问题可与我的医生讨论。</c>
                     </p>
                     <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
                         <c props="text-type:normal; font-family:宋体; font-size:14" name="" code="" codeSystem="">1.我理解任何手术麻醉都存在风险。</c>

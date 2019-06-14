@@ -10,4 +10,4 @@ HELP.md
 /src/test/
 /mvnw.cmd
 /mvnw
-/target/
+#/target/

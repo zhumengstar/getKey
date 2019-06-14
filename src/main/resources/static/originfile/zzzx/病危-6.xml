@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="HZXX" PAGE="1">科别：<Area ID="KB" MODIFY="false" UID="28" VALCODE="0"> 心内二 </Area>         病房：<Area ID="BF" MODIFY="true" UID="29" VALCODE="0">  </Area>         床号：<Area ID="CH" MODIFY="false" UID="30" VALCODE="0">xnea19</Area>  姓名：<Area ID="HZXM" MODIFY="false" UID="31" VALCODE="0">肖书霞</Area>         性别：<Area ID="HZXB" MODIFY="false" UID="32" VALCODE="0">女</Area>         年龄：<Area ID="HZNL" MODIFY="false" UID="33" VALCODE="0">42岁</Area></Phase><Phase ID="EMR.CUSTOME.YS.BZTZS" PAGE="1">患者单位或住址： <Area ID="ZZ" MODIFY="false" UID="34" VALCODE="0"> 河南省郑州市中牟县九龙镇肖庄村032号</Area>目前诊断： <Area ID="MQZD" MODIFY="false" UID="35" VALCODE="0"> 1.慢性肺源性心脏病 慢性心功能不全 心功能III级 支气管扩张 2.贫血 3.II型呼吸衰竭 </Area>危及生命原因：<Area ID="WJSMYY" MODIFY="false" UID="36" VALCODE="0"> 患者目前II型呼吸衰竭明确，有可能出现低氧血症、二氧化碳潴留加重导致肺性脑病、周围循环衰竭、严重酸碱代谢失衡、急性左心衰、心源性休克、心脏骤停等风险危及生命，特通知病重，望家属严密陪护。 </Area>        患者现病情危重正接受抢救，特通知患者家属及关系人。
+
+
+          签收人:   <Area ID="QM_QSR" MODIFY="false" UID="37" VALCODE="0">    </Area>               与患者关系: <Area ID="YHZGX" MODIFY="false" UID="39" VALCODE="0"> 姐妹 </Area>
+
+</Phase><Phase ID="QM" PAGE="1">
+          发出人:   <Area ID="QM_FCR" MODIFY="false" UID="38" VALCODE="0">  </Area>                 住院医师: <Area ID="QM_ZYYS" MODIFY="false" UID="40" VALCODE="0">  </Area>
+
+                                    主任/主治医师: <Area ID="QM_SJYSQM" MODIFY="false" UID="41" VALCODE="">  </Area>
+</Phase><Phase ID="EMR.CUSTOME.YS.BZTZS" PAGE="1">
+
+
+
+          本通知于:   <Area ID="TZSJ" MODIFY="false" UID="42" VALCODE="0">2018年11月21日17时20分</Area> 发出</Phase></Data>

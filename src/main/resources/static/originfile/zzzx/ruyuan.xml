@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data>
+    <Phase ID="EMR09.00.01" PAGE="1">
+        <Area ID="TITLE" MODIFY="false" UID="13" VALCODE="0">入 院 记 录</Area>
+    </Phase>
+    <Phase ID="HZXX" PAGE="1">
+        <Area ID="JZKS" MODIFY="false" UID="372" VALCODE="0">产一科住院</Area>
+        科住院病历（第 <Area ID="ZYCS" MODIFY="false" UID="373" VALCODE="0">1</Area> 次）姓名：<Area ID="HZXM" MODIFY="false"
+                                                                                         UID="387" VALCODE="0">
+        岳园园</Area>性别：<Area ID="HZXB" MODIFY="false" UID="388" VALCODE="0">女</Area>年龄：<Area ID="HZNL" MODIFY="false"
+                                                                                           UID="389" VALCODE="0">
+        27岁</Area>民族：<Area ID="MZ" MODIFY="false" UID="390" VALCODE="0">汉族</Area>婚姻状况：<Area ID="HY" MODIFY="false"
+                                                                                            UID="433" VALCODE="0">
+        已婚</Area>籍贯：<Area ID="JG" MODIFY="false" UID="392" VALCODE="0">河南省周口市</Area> 职业：<Area ID="ZY" MODIFY="false"
+                                                                                              UID="395" VALCODE="0">
+        无业人员</Area>工作单位：<Area ID="GZDW" MODIFY="false" UID="440" VALCODE="0">无</Area>身份证明号:<Area ID="SFZMH"
+                                                                                                 MODIFY="false"
+                                                                                                 UID="442" VALCODE="0">
+        41010119901028254x</Area>住址：<Area ID="ZZ" MODIFY="false" UID="398" VALCODE="0">河南省郑州市国棉一厂花园南街27号楼3单元4层东户</Area>入院时间：<Area
+            ID="RYSJ" MODIFY="false" UID="399" VALCODE="0">2018.05.02 18:55</Area>病史采集时间：<Area ID="BSCJSJ"
+                                                                                               MODIFY="false" UID="400"
+                                                                                               VALCODE="">2018.05.02
+        19:31</Area>联系电话:<Area ID="LXDH" MODIFY="false" UID="404" VALCODE="0">15038016150</Area>入院情况:<Area ID="RYQK"
+                                                                                                           MODIFY="false"
+                                                                                                           UID="402"
+                                                                                                           VALCODE="0">
+        一般</Area>病历陈述者：<Area ID="BSCSZ" MODIFY="false" UID="403" VALCODE="0">患者本人</Area>联系人：<Area ID="LXR"
+                                                                                                  MODIFY="false"
+                                                                                                  UID="404" VALCODE="0">
+        王亚伟</Area>与患者关系:<Area ID="LXRYHZGX" MODIFY="false" UID="436" VALCODE="0">配偶</Area>联系人电话：<Area ID="LXRDH"
+                                                                                                      MODIFY="false"
+                                                                                                      UID="406"
+                                                                                                      VALCODE="0">
+        13215997813</Area>记录时间：
+        <Area ID="JLSJ" MODIFY="false" UID="451" VALCODE="0">2018.05.02 19:33</Area>
+    </Phase>
+    <Phase ID="ZS" PAGE="1">主 诉:
+        <Area ID="ZS1" MODIFY="false" UID="44" VALCODE="0">停经39+1周，发现血糖高3月，下腹痛3天</Area>
+    </Phase>
+    <Phase ID="XBS" PAGE="1">现病史:
+        <Area ID="S03" MODIFY="false" UID="48" VALCODE="0">
+            平素月经规律，末次月经20187.08.01，预产期：2018.05.08。停经40+天自测尿酶免阳性，早孕反应一般，孕早期顺利，无阴道出血及保胎史，孕4+个月感胎动至今，定期我院围保检查，唐氏筛查低危，四维彩超正常。3个月前OGTT提示:5.25-8.71-7.70mmol/L，饮食及运动控制血糖，未规律监测血糖，空腹血糖5.3-6.1mmol/L，随机血糖6.3-6.7mmol/L至今啊。孕中晚期无头痛、头晕、眼花、四肢浮肿等不适，测血压及尿常规均正常，定期查彩超胎儿发育如孕月状。今孕39+1周，3天前开始不规律下腹痛，胎心监护提示频繁宫缩，无阴道出血、阴道流液，入院待产。门诊以“1.妊娠期糖尿病；2.先兆临产；3.孕2产0孕39+1周，头位。”收入院。孕期精神好，饮食睡眠可，大小便正常，体重增加14kg。
+        </Area>
+    </Phase>
+    <Phase ID="JWS" PAGE="1">既往史: 平素身体健康状况<Area ID="PSSTJKZK" MODIFY="false" UID="52" VALCODE="0">良好</Area>，无<Area
+            ID="JBS" MODIFY="false" UID="374" VALCODE="0">高血压、糖尿病、心脏病</Area>疾病史，<Area ID="CRBS" MODIFY="false" UID="56"
+                                                                                      VALCODE="0">
+        无</Area>传染病史，预防接种史<Area ID="JZS" MODIFY="false" UID="58" VALCODE="0">随社会进行</Area>，<Area ID="SSS" MODIFY="false"
+                                                                                                UID="60" VALCODE="0">
+        无</Area>外伤手术史，<Area ID="SXS" MODIFY="false" UID="62" VALCODE="0">无</Area>输血史，<Area ID="RYJL_GMS" MODIFY="false"
+                                                                                           UID="434" VALCODE="0">
+        无食物及药物过敏史</Area>。
+    </Phase>
+    <Phase ID="GRS" PAGE="1">个人史: 出生于<Area ID="CSD" MODIFY="false" UID="376" VALCODE="0">出生地</Area>，经常居留地<Area ID="CZDZ"
+                                                                                                               MODIFY="false"
+                                                                                                               UID="66"
+                                                                                                               VALCODE="0">
+        常住地址</Area>，10年前来郑州居住至今，高中学历；<Area ID="JSCYSJCS" MODIFY="false" UID="68" VALCODE="0">无</Area>寄生虫疫水接触史；<Area
+            ID="RYJL_XYS" MODIFY="false" UID="431" VALCODE="0">无吸烟史</Area>；<Area ID="RYJL_YJS" MODIFY="false" UID="432"
+                                                                                 VALCODE="0">无饮酒史</Area>；其他无不良嗜好，<Area
+            ID="GYDWJCS" MODIFY="false" UID="377" VALCODE="0">无</Area>工业毒物接触史，<Area ID="FCJCS" MODIFY="false" UID="378"
+                                                                                    VALCODE="0">无</Area>粉尘接触史，<Area
+            ID="FSXWZJCS" MODIFY="false" UID="379" VALCODE="0">无</Area>放射性物质接触史，<Area ID="YYS" MODIFY="false" UID="380"
+                                                                                      VALCODE="0">无</Area>冶游史。婚育史:
+        25岁结婚，丈夫体健，夫妻关系和睦。0-0-1-0，2年前人流1次。
+    </Phase>
+    <Phase ID="EMR09.00.O1_HYS" PAGE="1">月经史: 初潮年龄<Area ID="CCNL" MODIFY="false" UID="454" VALCODE="100">
+        12</Area>岁，（<Area ID="TS1" MODIFY="false" UID="456" VALCODE="15">4</Area>-<Area ID="TS2" MODIFY="false"
+                                                                                        UID="458" VALCODE="20">6</Area>天）/（<Area
+            ID="TS3" MODIFY="false" UID="460" VALCODE="40">28</Area>-<Area ID="TS4" MODIFY="false" UID="462"
+                                                                           VALCODE="60">29</Area>天），末次月经<Area ID="MCYJ"
+                                                                                                              MODIFY="false"
+                                                                                                              UID="464"
+                                                                                                              VALCODE="3000">
+        2017</Area>年<Area ID="MCYJY" MODIFY="false" UID="466" VALCODE="12">08</Area>月<Area ID="MCYJR" MODIFY="false"
+                                                                                           UID="468" VALCODE="31">
+        01</Area>日<Area ID="JJSJ" MODIFY="false" UID="470" VALCODE="0"></Area>。月经量<Area ID="YJL" MODIFY="false"
+                                                                                        UID="472" VALCODE="0">中等
+    </Area> ,<Area ID="TJ" MODIFY="false" UID="474" VALCODE="0">无</Area>痛经。
+        <Area ID="RS" MODIFY="false" UID="476" VALCODE="20"></Area>
+        <Area ID="ZYC" MODIFY="false" UID="478" VALCODE="20"></Area>
+        <Area ID="LC" MODIFY="false" UID="480" VALCODE="20"></Area>
+        <Area ID="ZC" MODIFY="false" UID="482" VALCODE="20"></Area>
+    </Phase>
+    <Phase ID="JZS" PAGE="1">家族史: 父<Area ID="FQ" MODIFY="false" UID="385" VALCODE="0">健在</Area>母患<Area ID="MQ"
+                                                                                                       MODIFY="false"
+                                                                                                       UID="386"
+                                                                                                       VALCODE="0">
+        糖尿病</Area>，1哥体健。<Area ID="YHZLSJB" MODIFY="false" UID="115" VALCODE="0">无</Area>与患者类似疾病，<Area ID="JZYCQXB"
+                                                                                                      MODIFY="false"
+                                                                                                      UID="117"
+                                                                                                      VALCODE="0">
+        无</Area>家族遗传倾向疾病。
+    </Phase>
+    <Phase ID="TGJC" PAGE="2">体格检查T<Area ID="TW" MODIFY="false" UID="122" VALCODE="0">37.0</Area>℃ P<Area ID="MB"
+                                                                                                          MODIFY="false"
+                                                                                                          UID="124"
+                                                                                                          VALCODE="600">
+        80</Area>次/分 R<Area ID="HX" MODIFY="false" UID="126" VALCODE="200">20</Area>次/分 BP<Area ID="BP1" MODIFY="false"
+                                                                                                UID="128" VALCODE="">
+        128</Area>/<Area ID="BP2" MODIFY="false" UID="130" VALCODE="">81</Area>mmHg体重(kg):91 身高(cm):166 BMI 33.02Kg/m2
+        发育正常，营养中等，神志清，精神好，自行步入病房，自动体位，查体合作，全身皮肤粘膜无黄染、皮疹及出血点，浅表淋巴结未触及肿大，头颅五官端正无畸形，双眼睑无浮肿，睑结膜无苍白，双侧瞳孔等大等圆，对光反射灵敏，调节反射存在，耳鼻无畸形，口唇粘膜无苍白，舌居中，咽无充血，扁桃体不肿大，颈软，无抵抗感，双侧颈部未闻及血管杂音，气管居中，甲状腺未及肿大，双乳对称、无硬结、无包块，胸廓对称，无畸形，呼吸活动度一致，语颤正常，胸部叩诊呈清音，听诊呼吸音清，未闻及干、湿性?音，心前区无隆起，心尖搏动位置正常，心界不大，心率80次/分，律齐，各瓣膜听诊区未闻及病理性杂音，腹膨隆如孕足月状，下腹部无手术瘢痕，肝脾肋下未及，移动性浊音阴性，肠鸣音正常。脊柱生理弯曲，四肢无畸形，活动自如。肛门无外痔，生殖器无畸形。生理反射存在，病理反射未引出。
+    </Phase>
+    <Phase ID="ZKJC" PAGE="2">产 科 检 查
+        宫高38cm，腹围118cm，无宫缩，先露头，胎心140次/分，估计胎儿体重:4366±g（腹壁脂肪较厚）。
+        内诊查：宫口容1指尖，居后，宫颈2cm，质软，先露头，S-3，Bishop评分2分，耻骨弓夹角正常，骶尾关节活动度可，坐骨切迹3指余。胎膜未破，未见红。
+        骨盆外测量：IS:24cm，IC:26cm，EC:19cm，IT:9cm。 辅助检查:
+        <Area ID="FZJC1" MODIFY="false" UID="445" VALCODE="0"></Area>
+        彩超（本院，2018.05.02）：双顶径：94mm，头位，头围：334mm，腹围：348mm，股骨：72mm，羊水指数：92mm，胎心142次/分，脐动脉S/D比值2.8
+        胎盘宫底后壁II-III级，胎儿估重：3446±516g
+    </Phase>
+    <Phase ID="CBZD" PAGE="2">初步诊断:
+        <Area ID="ZD1" MODIFY="false" UID="350" VALCODE="0">1.妊娠期糖尿病； 2.先兆临产； 3.孕2产0孕39+1周，头位。</Area>
+    </Phase>
+    <Phase ID="QM" PAGE="2"><Area ID="ZC_QM_YSQM" MODIFY="false" UID="446" VALCODE="0">住院医师</Area>:
+        <Area ID="QM_YSQM" MODIFY="false" UID="415" VALCODE="0">信艳萍</Area>
+        <Area ID="ZC_QM_SJYSQM" MODIFY="false" UID="447" VALCODE="0">上级医师签名</Area>:
+        <Area ID="QM_SJYSQM" MODIFY="false" UID="417" VALCODE="0">签署</Area>
+    </Phase>
+</Data>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data>
+    <Phase ID="EMR.LC.ZRJL#20181025112701#0001UD10000000VI70NV" PAGE="1">
+        <Area ID="JLSJ" MODIFY="false" UID="16" VALCODE="">2018.10.25 11:30</Area>
+        <Area ID="TITLE" MODIFY="false" UID="19" VALCODE="">肝胆胰外科住院转入记录</Area>患者姓名：<Area ID="HZXM" MODIFY="false"
+                                                                                         UID="21" VALCODE="">刘喜亭
+    </Area>  性别：<Area ID="HZXB" MODIFY="false" UID="23" VALCODE="">女</Area>  年龄：<Area ID="HZNL" MODIFY="false" UID="25"
+                                                                                      VALCODE="">90岁
+    </Area> 入院日期：<Area ID="RYRQ" MODIFY="false" UID="27" VALCODE="">2018.10.18</Area>  转入日期：<Area ID="ZRRQ"
+                                                                                                  MODIFY="false"
+                                                                                                  UID="29" VALCODE="">
+        2018年10月25日
+    </Area> 转出科室：<Area ID="ZCKS" MODIFY="false" UID="31" VALCODE="">消化内二科</Area>主诉：<Area ID="ZS1" MODIFY="false"
+                                                                                         UID="33" VALCODE="">尿黄1月，纳差半月
+    </Area> 入院情况：<Area ID="RYQK2" MODIFY="false" UID="35" VALCODE="">
+        1月前患者无明显诱因出现尿黄，无尿频、尿急、尿痛，半月前出现纳差，厌食，伴有皮肤瘙痒，自服“四联活菌、复方消化酶”，效果欠佳，无腹痛、腹泻，无恶心、呕吐，无反酸、烧心，无胸闷、胸痛，无头痛、头晕，无意识障碍，为求进一步诊治，门诊以“黄疸查因”收住我科；患病以来，神志清、精神欠佳，饮食夜眠尚可，大便干结，约3天1次，尿黄，体重无明显减轻。
+    </Area> 入院诊断：<Area ID="RYZD" MODIFY="false" UID="37" VALCODE="">黄疸</Area> 诊疗经过：<Area ID="ZLJG" MODIFY="false"
+                                                                                         UID="39" VALCODE="">
+        入院后积极完善相关检查，MRCP提示:1.肝门区肝管及胆总管上段胆管壁增厚、管腔狭窄，肝内、外胆管扩张，建议增强检查；2.胆囊切除术后；3.双肾多发小囊肿；4.双肾周少许渗出；5.腹主动脉近端及右侧髂动脉管腔扩张；6.腹腔少量积液，查体双侧巩膜黄染，皮肤黄染，两侧瞳孔等大等圆，对光反射灵敏。听诊两肺呼吸音粗，未闻及干湿??音。心率76次/分，律齐，心音低，各瓣膜听诊区未闻及明显杂音。腹平软无压痛反跳痛肌紧张，肝区轻度叩击痛，肝脾肋下未触及，双下肢无水肿，双侧病理征阴性。
+    </Area> 目前情况：<Area ID="MQQK" MODIFY="false" UID="41" VALCODE="">
+        患者一般情况可，生命体征平稳，查体见双侧巩膜黄染，皮肤黄染，腹平软无压痛反跳痛肌紧张，肝区轻度叩击痛，肝脾肋下未触及，双下肢无水肿，双侧病理征阴性。
+    </Area> 目前诊断：<Area ID="MQZD" MODIFY="false" UID="43" VALCODE="">
+        1.黄疸查因:胆管癌？2.胆囊癌术后；3.冠状动脉粥样硬化性心脏病，稳定型心绞痛，心功能II级（NYHA分级）；4.高血压3级，很高危组；5.2型糖尿病。
+    </Area> 转科目的：<Area ID="ZKMD" MODIFY="false" UID="45" VALCODE="">行PTCD术。</Area> 转入诊疗计划：<Area ID="ZRZLJH"
+                                                                                                MODIFY="false" UID="47"
+                                                                                                VALCODE="">
+        1.积极治疗基础病，继续给予抗生素抗感染、保肝、补液等对症支持治疗，2.择期行PTCD术。
+    </Area>
+        <Area ID="ZC_QM_YSQM" MODIFY="false" UID="50" VALCODE="">医师签名</Area>:<Area ID="QM_YSQM" MODIFY="false" UID="54"
+                                                                                   VALCODE="">签署
+    </Area>
+        <Area ID="ZC_QM_SJYSQM" MODIFY="false" UID="58" VALCODE="">上级医师签名</Area>:<Area ID="QM_SJYSQM" MODIFY="false"
+                                                                                       UID="61" VALCODE="">签署
+    </Area>
+    </Phase>
+    <Phase ID="EMR10.00.03_ZZ#20181030082226#0001UD10000000W1DIXI" PAGE="1">
+        <Area ID="JLSJ" MODIFY="false" UID="64" VALCODE="">2018.10.26 08:22</Area>
+        <Area ID="TITLE_NO" MODIFY="false" UID="67" VALCODE="">段希斌副主任医师代主治医师查房记录</Area>    今日<Area ID="YSXMZC"
+                                                                                                   MODIFY="false"
+                                                                                                   UID="69" VALCODE="">
+        段希斌副主任医师代主治医师</Area>查房,患者神志清，精神可，右上腹压痛，伴反跳痛。查体：心肺听诊无明显异常，腹平坦，无腹壁静脉曲张，腹软，右上腹部压痛，伴轻度反跳痛。肝、脾均未触及，Murphy氏征（-），肝区叩击痛阳性，无移动性浊音，肠鸣音4次/分。段希斌副主任医师查房后示：患者因黄疸，转入我科拟行手术治疗，明日给予患者复查血液学检查并请相关介入科会诊决定下一步手术计划，因患者进食较差，积极纠正患者的营养状况，已执行
+        。<Area ID="ZC_QM_YSQM" MODIFY="false" UID="71" VALCODE="">住院医师</Area>:<Area ID="QM_YSQM" MODIFY="false" UID="75"
+                                                                                    VALCODE=""></Area>
+        <Area ID="ZC_QM_SJYSQM" MODIFY="false" UID="78" VALCODE="">上级医师签名</Area>:<Area ID="QM_SJYSQM" MODIFY="false"
+                                                                                       UID="81" VALCODE="">签署
+    </Area>
+    </Phase>
+    <Phase ID="EMR10.00.03_ZR#20181104203317#0001X110000000WOW64L" PAGE="2">
+        <Area ID="JLSJ" MODIFY="false" UID="84" VALCODE="">2018.10.27 08:33</Area>
+        <Area ID="TITLE_NO" MODIFY="false" UID="87" VALCODE="">李学民主任医师查房记录</Area>
+        <Area ID="YSXMZC" MODIFY="false" UID="89" VALCODE=""></Area>今日查房,患者神志清，精神可，右上腹压痛，伴反跳痛。查体：心肺听诊无明显异常，腹平坦，无腹壁静脉曲张，腹软，右上腹部压痛，伴轻度反跳痛。肝、脾均未触及，Murphy氏征阴性，肝区叩击痛阳性，无移动性浊音，肠鸣音4次/分。血液学检查回示白细胞:7.64
+        10^9/L,中性粒细胞百分比:59.9 %,红细胞:2.26 10^12/L,血红蛋白:67 g/L,血小板:313 10^9/L,C反应蛋白:6.59 mg/lB型钠尿肽:1613.70
+        pg/ml天门冬氨酸氨基转移酶:64 U/L,丙氨酸氨基转移酶:35 U/L,总胆红素:57.7 umol/L,直接胆红素:55.6 umol/L,肌酐:228.6 umol/L,尿素:10.71
+        mmol/L糖类抗原CA15-3:34.90 U/ml,糖类抗原CA-125:41.70 U/ml,癌胚抗原:18.02
+        ng/ml李学民主任医师医师查房后指示：患者血液学检查提示胆红素较前有所下降，建议患者继续动态观察，必要时再行手术治疗，患者白蛋白较低，积极纠正患者低蛋白血症，患者尿素肌酐较前有所改善，继续动态观察。患者肿瘤标记物较高，考虑胆管占位有关，继续动态观察，治疗上继续给予患者保肝消炎等药物支持治疗，已执行。<Area
+            ID="ZC_QM_YSQM" MODIFY="false" UID="91" VALCODE="">住院医师</Area>:<Area ID="QM_YSQM" MODIFY="false" UID="95"
+                                                                                 VALCODE=""></Area>
+        <Area ID="ZC_QM_SJYSQM" MODIFY="false" UID="98" VALCODE="">上级医师签名</Area>:<Area ID="QM_SJYSQM" MODIFY="false"
+                                                                                       UID="101" VALCODE="">签署
+    </Area>
+    </Phase>
+    <Phase ID="EMR10.00.03_ZZ#20181030084424#0001X110000000WOWBUL" PAGE="2">
+        <Area ID="JLSJ" MODIFY="false" UID="123" VALCODE="">2018.10.30 08:44</Area>
+        <Area ID="TITLE_NO" MODIFY="false" UID="126" VALCODE="">段希斌副主任医师查房记录</Area>
+        <Area ID="YSXMZC" MODIFY="false" UID="128" VALCODE=""></Area>今日查房,患者神志清，精神可，右上腹压痛，伴反跳痛。查体：心肺听诊无明显异常，腹平坦，无腹壁静脉曲张，腹软，右上腹部压痛，伴轻度反跳痛。肝、脾均未触及，Murphy氏征阴性，肝区叩击痛阳性，无移动性浊音，肠鸣音4次/分。段希斌副主任医师查房后示:患者诉进食较差，积极给予患者营养评估病情。临床营养科会诊，予以营养液增加营养支持治疗，治疗上继续给予患者保肝，消炎等药物支持，密切观察患者病情已执行。<Area
+            ID="ZC_QM_YSQM" MODIFY="false" UID="130" VALCODE="">住院医师</Area>:<Area ID="QM_YSQM" MODIFY="false" UID="134"
+                                                                                  VALCODE=""></Area>
+        <Area ID="ZC_QM_SJYSQM" MODIFY="false" UID="137" VALCODE="">上级医师签名</Area>:<Area ID="QM_SJYSQM" MODIFY="false"
+                                                                                        UID="140" VALCODE="">签署
+    </Area>
+    </Phase>
+    <Phase ID="EMR10.00.03_ZR#20181104204753#0001X110000000WOWFY4" PAGE="3">
+        <Area ID="JLSJ" MODIFY="false" UID="143" VALCODE="">2018.11.02 08:51</Area>
+        <Area ID="TITLE_NO" MODIFY="false" UID="146" VALCODE="">李学民主任医师查房记录</Area>
+        <Area ID="YSXMZC" MODIFY="false" UID="148" VALCODE=""></Area>今日查房,患者神志清，精神可诉，诉腹胀难以忍受、胸闷，查体：心肺听诊无明显异常，腹部膨隆，无腹壁静脉曲张，腹软，右上腹部压痛。肝、脾均未触及，Murphy氏征阴性，肝区叩击痛阳性，无移动性浊音，肠鸣音4次/分。影像学检查回示:1.肝门部胆管壁增厚，肝内胆管扩张，同前，建议增强检查；2.腹、盆腔积液，较前新发；3.胆囊切除术后；4.左肾低密度；5.双肾周少许渗出；6.腹主动脉及右侧髂动脉支架植入术后，腹主动脉近端及右侧髂动脉管腔扩张；7.膀胱少许积气，较前减少；8.腰背部及腹、盆壁软组织水肿；9.左肺上叶舌段纤维灶；10.双侧胸腔积液；11.纵隔小淋巴结；12.主动脉及冠状动脉硬化；建议结合临床必要时增强检查。李学民主任医师查房后示:患者诉腹胀难以忍受，结合影像学检查提示腹壁软组织水肿可能，继续加强利尿，患者胸闷，给予吸氧后较前有所改善，请相关科室会诊协助诊治，2治疗上，给予患者抗炎营养支持等药物应用，但应注意水电解质酸碱平衡，密切观察患者病情，已执行。                                                               <Area
+            ID="ZC_QM_YSQM" MODIFY="false" UID="150" VALCODE="">住院医师</Area>:<Area ID="QM_YSQM" MODIFY="false" UID="154"
+                                                                                  VALCODE=""></Area>
+        <Area ID="ZC_QM_SJYSQM" MODIFY="false" UID="157" VALCODE="">上级医师签名</Area>:<Area ID="QM_SJYSQM" MODIFY="false"
+                                                                                        UID="160" VALCODE="">签署
+    </Area>
+    </Phase>
+</Data>

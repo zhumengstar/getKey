@@ -415,7 +415,7 @@
                 <c props="text-type:micro; font-family:宋体; font-size:-16" name="年龄" code="" codeSystem="">55岁</c>
                 <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">，</c>
                 <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">
-                    主因[主诉内容呼吸困难1小时]于[入科日期]入院，于
+                    主因[主诉呼吸困难1小时]于[入科日期]入院，于
                 </c>
                 <c props="text-type:format; font-family:宋体; font-size:16" name="" code="" codeSystem=""
                    mask="yyyy年MM月dd日 HH时mm分" format-type="datetime" select-oper="true">2013年06月03日 10时42分

@@ -214,7 +214,7 @@
                 </cell>
                 <cell props="left-attach:0; right-attach:1; top-attach:2; bot-attach:3" draw-bot="1" draw-left="1" draw-right="1" draw-top="1" left-pad="4" right-pad="8" fill-style="0" fill-bgcolor="16777215">
                     <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
-                        <c props="text-type:normal; font-family:宋体; font-size:-14" name="" code="" codeSystem="">我已知晓上述入院宣教的全部内容。</c>
+                        <c props="text-type:normal; font-family:宋体; font-size:-14" name="" code="" codeSystem="">我已知晓上述入院宣教的全部。</c>
                     </p>
                     <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
                         <c props="text-type:normal; font-family:宋体; font-size:-14" name="" code="" codeSystem=""></c>

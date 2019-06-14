@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Data> 
+  <Phase ID="HZXX">姓名：
+    <Area ID="HZXM">张学新</Area> 性别：
+    <Area ID="HZXB">女</Area>年龄：
+    <Area ID="HZNL">36岁</Area>科室：
+    <Area ID="HZKS">高新妇产科住院</Area>床号：
+    <Area ID="CH">839</Area> 住院号：
+    <Area ID="ZYH">501001018</Area> 
+  </Phase>  
+  <Phase ID="SCHLJLD">入院诊断：
+    <Area ID="RYZD">腹痛待查：异位妊娠？</Area>入院时间：
+    <Area ID="RYSJ">2016.01.20 03:28</Area>入院途径：
+    <Area ID="RYTJ">门诊</Area> 其它：
+    <Area ID="RYTJ_QT">/</Area>方式：
+    <Area ID="FS">自行步入</Area>（代）主诉：
+    <Area ID="DZS">停经26天，阴道出血1天，腹痛4+小时</Area>过敏史：
+    <Area ID="GMS">无</Area>生命体征:T:
+    <Area ID="SMTZ_T">36.5</Area>℃ P:
+    <Area ID="SMTZ_P">76</Area>次/分 R:
+    <Area ID="SMTZ_R">19</Area>次/分 BP:
+    <Area ID="SMTZ_BP">98/60</Area>mmHg神志：
+    <Area ID="SZ">清醒</Area>呼吸：
+    <Area ID="HX">平稳</Area>精神：
+    <Area ID="JS">好</Area>情绪：
+    <Area ID="QX">稳定</Area>睡眠：
+    <Area ID="SM">正常</Area>营养状况：
+    <Area ID="YYZK">良好</Area>大便： 
+    <Area ID="DB">正常</Area> （性质： 
+    <Area ID="XZ">/</Area> ）小便：
+    <Area ID="XB">正常</Area>自理能力：
+    <Area ID="ZLNL">无需依赖</Area>视力障碍： 
+    <Area ID="SLZA">无</Area> 末梢血糖：
+    <Area ID="MSXT">/</Area> mmol/L携带管道：
+    <Area ID="XDGD">/</Area>临床症状及体征：
+    <Area ID="LCZZJTZ">末次月经：2015年12月26 日</Area>护理级别：
+    <Area ID="HLJB">一级护理</Area>饮食：
+    <Area ID="YS">禁食水</Area>治疗原则：
+    <Area ID="ZLYZ">急诊手术</Area>专科护理措施：
+    <Area ID="ZKHLCS">观察阴道出血量、性状、颜色 饮食指导 入院宣教 术前宣教 心理安抚</Area>备注：
+    <Area ID="BZ">患者拟于今日中午行腹腔镜下双侧输卵管切除术，遵医嘱给予头孢替安1.0g皮试，结果阴性，报告大夫，遵医嘱给予术区备皮，清洁脐孔、留置导尿管，引流通畅，持续引流出淡黄色尿液，现安静待术。</Area>2013年护理部修订 责任护士签名：
+    <Area ID="QM_TP_ZRHSQM">张书萍</Area> 
+  </Phase> 
+</Data>

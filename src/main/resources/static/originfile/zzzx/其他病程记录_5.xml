@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="EMR.CUSTOME.YS.SQWTS" PAGE="1">郑州大学附属郑州中心医院郑 州 市 中 心 医 院   授权委托书	</Phase><Phase ID="WTXX" PAGE="1">	委托人<Area ID="WTR" MODIFY="false" UID="1" VALCODE="">     </Area>，本人现因病入住郑州市中心医院<Area ID="JZKS" MODIFY="false" UID="2" VALCODE="">        </Area>科<Area ID="BQ" MODIFY="false" UID="3" VALCODE="">      </Area>病区     <Area ID="CH" MODIFY="false" UID="4" VALCODE="">    </Area>床，现同意将住院期间有关本人现有疾病的处置权委托受委托人<Area ID="SWTR" MODIFY="false" UID="5" VALCODE="">        </Area>与委托人的关系<Area ID="YWTRGX" MODIFY="false" UID="6" VALCODE="">    </Area>）行使如下与诊治相关的权利：
+
+1、代为知晓病情及治疗风险和预后
+
+2、代为签署手术同意书
+
+3、代为签署麻醉同意书
+
+4、代为签署输血同意书
+
+5、代为同意必要时追加手术或者变更手术
+
+6、代为签署其他相关检查治疗知情同意书
+
+7、代为同意实施其他相关诊疗措施
+
+</Phase><Phase ID="QM" PAGE="1">
+
+
+委托人签字：<Area ID="QM_WTR" MODIFY="false" UID="7" VALCODE="">        </Area>                      受委托人签字：<Area ID="QM_SWTR" MODIFY="false" UID="8" VALCODE="">      </Area>           
+
+
+    <Area ID="QM_WTR_RQ" MODIFY="false" UID="9" VALCODE="">   年   月    日</Area>                             <Area ID="QM_SWTR_RQ" MODIFY="false" UID="10" VALCODE="">    年    月    日</Area></Phase></Data>

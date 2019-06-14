@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="HZXX" PAGE="1">科别：<Area ID="KB" MODIFY="false" UID="28" VALCODE="0"> 呼内二 </Area>         病房：<Area ID="BF" MODIFY="false" UID="29" VALCODE="0">  </Area>         床号：<Area ID="CH" MODIFY="false" UID="30" VALCODE="0">hne37-37</Area>  姓名：<Area ID="HZXM" MODIFY="false" UID="31" VALCODE="0">彭荷花</Area>         性别：<Area ID="HZXB" MODIFY="false" UID="32" VALCODE="0">女</Area>         年龄：<Area ID="HZNL" MODIFY="false" UID="33" VALCODE="0">75岁</Area></Phase><Phase ID="EMR.CUSTOME.YS.BZTZS" PAGE="1">患者单位或住址： <Area ID="ZZ" MODIFY="false" UID="34" VALCODE="0"> 河南省郑州市中原区祈福铭都2-1-21</Area>目前诊断： <Area ID="MQZD" MODIFY="false" UID="35" VALCODE="0"> 1.肺间质纤维化并感染 呼吸衰竭；2.冠状动脉粥样硬化性心脏病 心功能不全 心功能IV级（NYHA分级）；3.高血压病3级 极高危组；4.周围动脉粥样硬化症；5.阑尾炎术后；6.乳腺癌术后。 </Area>危及生命原因：<Area ID="WJSMYY" MODIFY="false" UID="36" VALCODE="0"> 患者高龄，基础病多，病情危重，有发生胸闷气喘加重、感染加重、感染性休克、急性心肌梗死、恶性心律失常、心源性休克、猝死、高血压脑病、高血压危象、脑出血等风险，有再次转重症监护室风险，预后差，后续治疗费用高，患者及家属表示知情理解。 </Area>        患者现病情危重正接受抢救，特通知患者家属及关系人。
+
+
+          签收人:   <Area ID="QM_QSR" MODIFY="false" UID="37" VALCODE="0">    </Area>               与患者关系: <Area ID="YHZGX" MODIFY="false" UID="39" VALCODE="0">    </Area>
+
+</Phase><Phase ID="QM" PAGE="1">
+          发出人:   <Area ID="QM_FCR" MODIFY="false" UID="38" VALCODE="0">  </Area>                 住院医师: <Area ID="QM_ZYYS" MODIFY="false" UID="40" VALCODE="0">  </Area>
+
+                                    主任/主治医师: <Area ID="QM_SJYSQM" MODIFY="false" UID="41" VALCODE="">  </Area>
+</Phase><Phase ID="EMR.CUSTOME.YS.BZTZS" PAGE="1">
+
+
+
+          本通知于:   <Area ID="TZSJ" MODIFY="true" UID="42" VALCODE="0">2018年11月21日10时30分</Area> 发出</Phase></Data>

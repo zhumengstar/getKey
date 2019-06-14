@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="HZXX" PAGE="1">科室： <Area ID="HZKS" MODIFY="false" UID="15" VALCODE="">妇产科病区</Area>  姓名：<Area ID="HZXM" MODIFY="false" UID="16" VALCODE="">张丽娜</Area>  性别：<Area ID="HZXB" MODIFY="false" UID="17" VALCODE="">女</Area>  年龄: <Area ID="HZNL" MODIFY="false" UID="18" VALCODE="">31岁</Area> 床号: <Area ID="CH" MODIFY="false" UID="19" VALCODE="">713</Area> 住院号：<Area ID="ZYH" MODIFY="false" UID="20" VALCODE="">501220542</Area>  住址：<Area ID="ZZ" MODIFY="false" UID="21" VALCODE="">河南省郑州市惠济区电厂路</Area>
+术前诊断 ：<Area ID="SQZD" MODIFY="true" UID="22" VALCODE="">1.羊水偏少；2.孕3产1，孕38+4周；3.瘢痕子宫；4.细菌性阴道炎</Area>
+手术名称 ：<Area ID="SSMC" MODIFY="true" UID="23" VALCODE="">二次剖宫产术</Area>
+<Area ID="KNYW" MODIFY="false" UID="24" VALCODE="">术中或术后可能出现的意外与并发症：
+1.麻醉意外，呼吸、心跳骤停；
+2.术中术后大出血，休克，DIC，羊水栓塞，心脑血管意外；
+3.子宫收缩不良，胎盘植入，出血过多需输血、宫腔填塞等处理，必要时子宫背带式缝合、子宫动脉结扎， 介入治疗，甚至切除子宫；
+4.术中周围脏器损伤，尽量避免，一旦发生及时修补；
+5.术后全身、腹腔、子宫感染，药物治疗及对症处理；
+6.切口感染或脂肪液化致切口不愈合或延期愈合,延长住院时间,费用增加；
+7.入手术室途中及麻醉前后体位改变，有突发因脐带受压所致胎儿窘迫、胎死宫内、新生儿窒息等危险；8.新生儿畸形不除外；
+9.新生儿羊水吸入，吸入性肺炎、新生儿窒息、缺氧缺血性脑病、损伤、产伤、特发性呼吸窘迫综合征、脑瘫、颅内出血等，需抢救甚至危及新生儿生命；
+10.术后肠粘连、肠梗阻，严重时需手术治疗，术后鼓励产妇多活动；
+11.晚期产后出血，需清宫甚至子宫切除；
+12.术后静脉血栓，子宫内膜异位症等；
+13.术后需避孕2-3年；
+14.再次妊娠仍有可能需要剖宫产；</Area>15.是否美容缝合:  是</Phase><Phase ID="EMR.CUSTOME.YS.SXTYS" PAGE="1"><Area ID="NDCSX" MODIFY="false" UID="46" VALCODE="">R</Area></Phase><Phase ID="HZXX" PAGE="1">；否</Phase><Phase ID="EMR.CUSTOME.YS.SXTYS" PAGE="1"><Area ID="NDCSX" MODIFY="true" UID="48" VALCODE="">□</Area></Phase><Phase ID="HZXX" PAGE="1">；
+16.是否用止血、防粘连纱布:  是:</Phase><Phase ID="EMR.CUSTOME.YS.SXTYS" PAGE="1"><Area ID="NDCSX" MODIFY="false" UID="52" VALCODE="">R</Area></Phase><Phase ID="HZXX" PAGE="1">否:</Phase><Phase ID="EMR.CUSTOME.YS.SXTYS" PAGE="1"><Area ID="NDCSX" MODIFY="false" UID="50" VALCODE="">□</Area></Phase><Phase ID="HZXX" PAGE="1">；
+17.子宫坏死、卵巢早衰等；18.是否同时行双侧输卵管结扎术:是</Phase><Phase ID="EMR.CUSTOME.YS.SXTYS" PAGE="1"><Area ID="NDCSX" MODIFY="false" UID="42" VALCODE="">□</Area> </Phase><Phase ID="HZXX" PAGE="1">；否</Phase><Phase ID="EMR.CUSTOME.YS.SXTYS" PAGE="1"><Area ID="NDCSX" MODIFY="true" UID="44" VALCODE="">R</Area> </Phase><Phase ID="HZXX" PAGE="1">；
+19.其他。 虽然采取各种预防措施，仍有发生上述情况的可能，请家属慎重考虑，对手术有什么意见，可写在下面，如同意手术请予签字<Area ID="SSFX" MODIFY="true" UID="25" VALCODE="">  </Area>  <Area ID="TYQZ" MODIFY="false" UID="26" VALCODE="">  </Area>   </Phase><Phase ID="QM" PAGE="1">患者（或患者家属）签字: <Area ID="QM_HZ" MODIFY="false" UID="38" VALCODE="">       </Area>患者与家属关系 :<Area ID="YHZGX" MODIFY="true" UID="40" VALCODE="">         </Area></Phase><Phase ID="HZXX" PAGE="1"><Area ID="QM_YSQM_ZC" MODIFY="true" UID="32" VALCODE="">经治医师（含职称）</Area>:<Area ID="QM_YSQM" MODIFY="false" UID="36" VALCODE="">  </Area></Phase><Phase ID="EMR.CUSTOME.YS.SXTYS" PAGE="1">   </Phase><Phase ID="HZXX" PAGE="1">             </Phase><Phase ID="QM" PAGE="1"><Area ID="" MODIFY="false" UID="" VALCODE="">上级医师签名</Area>:<Area ID="QM_SJYSQM" MODIFY="false" UID="55" VALCODE="">  </Area></Phase><Phase ID="HZXX" PAGE="1">
+                                       <Area ID="QM_SJ" MODIFY="true" UID="29" VALCODE=""> 2018.11.22 </Area></Phase></Data>

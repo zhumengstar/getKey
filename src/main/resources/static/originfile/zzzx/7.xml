@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data>
+    <Phase ID="HZXX" PAGE="1">科室：<Area ID="JZKS" MODIFY="false" UID="5" VALCODE="">CCU住院</Area>           床号：<Area
+            ID="CH" MODIFY="false" UID="6" VALCODE="">ccu18
+    </Area>          住院号：<Area ID="ZYH" MODIFY="false" UID="7" VALCODE="">500802657</Area>姓名：<Area ID="HZXM"
+                                                                                                   MODIFY="false"
+                                                                                                   UID="8" VALCODE="">
+        高绍杰
+    </Area>    性别：<Area ID="HZXB" MODIFY="false" UID="21" VALCODE="">男</Area>   年龄：<Area ID="HZNL" MODIFY="false"
+                                                                                         UID="10" VALCODE="">61岁
+    </Area> 请会诊科室：口腔科
+        <Area ID="SQKS" MODIFY="true" UID="1" VALCODE=""></Area>
+    </Phase>
+    <Phase ID="EMR10.00.09" PAGE="1">病历摘要及诊疗情况：<Area ID="BLZYJZLQK" MODIFY="true" UID="2" VALCODE="">急性心梗患者，今日诉牙痛</Area>申请会诊原因及目的：<Area
+            ID="SQHZYYJMD" MODIFY="true" UID="3" VALCODE="">请口腔科会诊协诊</Area>申请者：<Area ID="JZKS" MODIFY="false" UID="13"
+                                                                                     VALCODE=""></Area> 科 医师<Area
+            ID="QM_SQYS" MODIFY="false" UID="14" VALCODE=""></Area>     申请时间：<Area ID="SQYS_SJ" MODIFY="false" UID="15"
+                                                                                   VALCODE="">年 月 日 时 分</Area>会诊意见：<Area
+            ID="HZYJ" MODIFY="false" UID="4" VALCODE=""></Area>会诊者：<Area ID="HZKS" MODIFY="false" UID="17"
+                                                                         VALCODE=""></Area>科 医师<Area ID="HZYS"
+                                                                                                     MODIFY="false"
+                                                                                                     UID="18"
+                                                                                                     VALCODE=""></Area> 会诊时间：
+        <Area ID="HZYS_SJ" MODIFY="false" UID="19" VALCODE="">年 月 日 时 分</Area>
+    </Phase>
+</Data>

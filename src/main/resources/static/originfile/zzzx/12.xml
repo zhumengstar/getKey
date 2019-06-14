@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data>
+    <Phase ID="HZXX" PAGE="1">科室：<Area ID="JZKS" MODIFY="false" UID="5" VALCODE="">CCU住院</Area>           床号：<Area
+            ID="CH" MODIFY="false" UID="6" VALCODE="">ccu19
+    </Area>          住院号：<Area ID="ZYH" MODIFY="false" UID="7" VALCODE="">500809746</Area>姓名：<Area ID="HZXM"
+                                                                                                   MODIFY="false"
+                                                                                                   UID="8" VALCODE="">
+        许树兰
+    </Area>    性别：<Area ID="HZXB" MODIFY="false" UID="21" VALCODE="">女</Area>   年龄：<Area ID="HZNL" MODIFY="false"
+                                                                                         UID="10" VALCODE="">89岁
+    </Area> 请会诊科室：
+        <Area ID="SQKS" MODIFY="true" UID="1" VALCODE="">消化科</Area>
+    </Phase>
+    <Phase ID="EMR10.00.09" PAGE="1">病历摘要及诊疗情况：患者纳差1周，胸闷气喘1天为主诉04.30入院，既往慢性胃炎病史，查<Area ID="BLZYJZLQK" MODIFY="true"
+                                                                                       UID="2" VALCODE="">
+        CT平扫及增强1.双肺间质纤维化合并感染可能性大，建议结合临床复查；2.右侧胸腔引流管，左侧胸腔积液；3.纵隔多发小淋巴结；4.心脏增大，主动脉及冠状动脉硬化；5.肝脏膈顶部低密度影；6.胆囊底壁结节影，胆囊结石；7.左侧肾上腺体部结节状增粗；8.双肾血管硬化，双肾结石；9.子宫钙化灶；请结合临床，建议增强检查。
+        1.肝左内叶低密度影，脂肪沉积？韧带附着？建议MR检查；2.胆囊体积增大，胆囊结石；3.左侧肾上腺体部结节样略增粗；4.双肾血管硬化，双肾结石；5.子宫钙化灶；6.膀胱充盈欠佳，壁稍厚；7.所示双肺间质纤维化合并感染可能性大；8.左侧胸腔积液；10.阑尾增粗，建议结合临床；11.左心室内斑片状充盈缺损，建议结合心脏超声检查；
+        建议结合临床，必要时进一步检查。</Area>申请会诊原因及目的：<Area ID="SQHZYYJMD" MODIFY="true" UID="3" VALCODE="">
+        查体按压腹部全腹软，表情痛苦，大便潜血弱阳性，请消化科会诊协助诊治</Area>申请者：<Area ID="JZKS" MODIFY="true" UID="13" VALCODE="">CCU</Area> 科 住院医师<Area
+            ID="QM_SQYS" MODIFY="true" UID="14" VALCODE="">牛金朵
+    </Area>     申请时间：<Area ID="SQYS_SJ" MODIFY="false" UID="15" VALCODE="">年 月 日 时 分</Area>会诊意见：<Area ID="HZYJ"
+                                                                                                      MODIFY="false"
+                                                                                                      UID="4"
+                                                                                                      VALCODE=""></Area>会诊者：<Area
+            ID="HZKS" MODIFY="false" UID="17" VALCODE=""></Area>科 医师<Area ID="HZYS" MODIFY="false" UID="18"
+                                                                          VALCODE=""></Area> 会诊时间：
+        <Area ID="HZYS_SJ" MODIFY="false" UID="19" VALCODE="">年 月 日 时 分</Area>
+    </Phase>
+</Data>

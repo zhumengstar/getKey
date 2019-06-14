@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="HZXX" PAGE="1">科别：<Area ID="KB" MODIFY="true" UID="28" VALCODE="">心内二</Area>         病房：<Area ID="BF" MODIFY="true" UID="29" VALCODE="">17床</Area>         床号：<Area ID="CH" MODIFY="false" UID="30" VALCODE="">xnea17</Area>  姓名：<Area ID="HZXM" MODIFY="false" UID="31" VALCODE="">王庆华</Area>         性别：<Area ID="HZXB" MODIFY="false" UID="32" VALCODE="">女</Area>         年龄：<Area ID="HZNL" MODIFY="false" UID="33" VALCODE="">78岁</Area></Phase><Phase ID="EMR.CUSTOME.YS.BZTZS" PAGE="1">患者单位或住址： <Area ID="ZZ" MODIFY="false" UID="34" VALCODE=""> 河南省郑州市中原区煤仓北街22-3-15 </Area>目前诊断： <Area ID="MQZD" MODIFY="false" UID="35" VALCODE="">1.风湿性心脏瓣膜病:二尖瓣狭窄 二尖瓣机械瓣膜置换术后 三尖瓣关闭不全 主动脉瓣关闭不全 心律失常 永久性心房纤颤并高度房室传导阻滞 永久起搏器植入术后 慢性心功能不全 双侧胸腔积液 心功能Ⅳ级（NYHA分级）；2.心肾综合症，肾功能不全Ⅳ期；3.周围动脉粥样硬化症；4.腔隙性脑梗塞；5.胆囊结石并胆囊炎；6.血小板减少症；7.慢性贫血。  </Area>危及生命原因：<Area ID="WJSMYY" MODIFY="true" UID="36" VALCODE="">      患者现腰骶部及脚踝部水肿较前加重，尿量小于100ml,血压偏低，多巴胺持续应用中血压维持在85-95/30-40mmHg，经血液净化室医师会诊后考虑患者心功能较差，血压偏低，不适合做血液透析治疗，建议至重症行床旁血滤治疗，或者进一步上级医院就诊，患者现病情较重，告病重，有发生急性左心衰竭、恶性心律失常、心脏骤停、心源性休克、猝死、脑卒中、糖尿病酮症酸中毒、高渗性昏迷、应激性消化道溃疡出血、失血性休克、内环境紊乱等风险。嘱低脂饮食，留陪一人，留院勿外，预防坠床跌倒，监测血压、心率。目前病情与诊疗计划已与患者及家属沟通。 </Area>        患者现病情危重正接受抢救，特通知患者家属及关系人。
+
+
+          签收人:   <Area ID="QM_QSR" MODIFY="false" UID="37" VALCODE="">  </Area>               与患者关系: <Area ID="YHZGX" MODIFY="false" UID="39" VALCODE="">  </Area>
+
+</Phase><Phase ID="QM" PAGE="1">
+          发出人:   <Area ID="QM_FCR" MODIFY="false" UID="38" VALCODE="">  </Area>                 住院医师: <Area ID="QM_ZYYS" MODIFY="false" UID="40" VALCODE="">  </Area>
+
+                                    主任/主治医师: <Area ID="QM_SJYSQM" MODIFY="false" UID="41" VALCODE="">  </Area>
+</Phase><Phase ID="EMR.CUSTOME.YS.BZTZS" PAGE="1">
+
+
+
+          本通知于:   <Area ID="TZSJ" MODIFY="true" UID="42" VALCODE=""> 2018年11月22 日 09时 55 分</Area> 发出</Phase></Data>

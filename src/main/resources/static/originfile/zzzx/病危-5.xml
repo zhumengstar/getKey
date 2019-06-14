@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="HZXX" PAGE="1">科别：<Area ID="KB" MODIFY="false" UID="28" VALCODE="0">  </Area>         病房：<Area ID="BF" MODIFY="false" UID="29" VALCODE="0">  </Area>         床号：<Area ID="CH" MODIFY="false" UID="30" VALCODE="0">FKR05</Area>  姓名：<Area ID="HZXM" MODIFY="false" UID="31" VALCODE="0">李新萍</Area>         性别：<Area ID="HZXB" MODIFY="false" UID="32" VALCODE="0">女</Area>         年龄：<Area ID="HZNL" MODIFY="false" UID="33" VALCODE="0">53岁</Area></Phase><Phase ID="EMR.CUSTOME.YS.BZTZS" PAGE="1">患者单位或住址： <Area ID="ZZ" MODIFY="false" UID="34" VALCODE="0">  </Area>目前诊断： <Area ID="MQZD" MODIFY="false" UID="35" VALCODE="0"> 1.子宫内膜间质肉瘤IIIb期第一次化疗后；2.子宫内膜样癌；3.子宫脱垂II度；4.阴道前壁脱垂II度；5.阴道后壁脱垂I度。 </Area>危及生命原因：<Area ID="WJSMYY" MODIFY="false" UID="36" VALCODE="0"> 患者现系恶性肿瘤晚期，盆腹腔肿瘤广泛转移，现病情危重，告病重，在治疗过程中随时可能出现心肺功能衰竭、癌灶破裂、大出血、失血性休克等危及生命，随时可能需要抢救，转入ICU，花费高。 </Area>        患者现病情危重正接受抢救，特通知患者家属及关系人。
+
+
+          签收人:   <Area ID="QM_QSR" MODIFY="false" UID="37" VALCODE="0">    </Area>               与患者关系: <Area ID="YHZGX" MODIFY="false" UID="39" VALCODE="0">    </Area>
+
+</Phase><Phase ID="QM" PAGE="1">
+          发出人:   <Area ID="QM_FCR" MODIFY="true" UID="38" VALCODE="0">  李红娟</Area>                 住院医师: <Area ID="QM_ZYYS" MODIFY="false" UID="40" VALCODE="0">  </Area>
+
+                                    主任/主治医师: <Area ID="QM_SJYSQM" MODIFY="true" UID="41" VALCODE="">  相元翠</Area>
+</Phase><Phase ID="EMR.CUSTOME.YS.BZTZS" PAGE="1">
+
+
+
+          本通知于:   <Area ID="TZSJ" MODIFY="false" UID="42" VALCODE="0">  2018年11月21日18时11分</Area> 发出</Phase></Data>

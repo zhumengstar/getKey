@@ -1,0 +1,28 @@
+select sc.pk_emrsec  from uap631.uh_cn_emr_sec sc;
+
+
+select d.secxml   from uap631.uh_cn_emr_sec_cont d 
+where d.pk_emrsec= '0001UD10000000R4AQ5B'
+
+
+
+select distinct * from uap631.UH_CN_EMR where pk_emr  in
+  (select distinct pk_emr from uap631.UH_CN_EMR_VER where  pk_emrsec='0001UD10000000QRB4C5')
+  
+  select distinct pk_emr  from UH_CN_EMR where pk_emr  in
+  (select distinct pk_emr from UH_CN_EMR_VER where  pk_emrsec='0001X110000000RB5VZH');
+  
+ 
+select * from uap631.UH_CN_EMR where code_emr like  '%EMR.HL.HLJHD_PT%';
+
+ select * from uap631.UH_CN_EMR where code_emr like  '%入院患者护理评估单%';
+ 
+ select distinct SUBSTR(code_emr,1,INSTR(code_emr,'#')-1)  from uap631.UH_CN_EMR where name_emr like '%入院患者护理评估单%'
+ 
+ select distinct code_emr   from uap631.UH_CN_EMR where name_emr like '%入院患者护理评估单%'
+  
+ select * from uap631.UH_CN_EMR_SEC_CONT where pk_emrsec='0001UD10000000077WRY';
+ 
+ select * from uap631.UH_CN_EMR where code_emr like '%GXFCK%';
+ 
+ select * from 

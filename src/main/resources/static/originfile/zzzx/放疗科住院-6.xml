@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="HZXX" PAGE="1">姓名：<Area ID="HZXM" MODIFY="false" UID="43" VALCODE="0">魏巧风</Area>  性别：<Area ID="HZXB" MODIFY="false" UID="44" VALCODE="0">女</Area>  年龄：<Area ID="HZNL" MODIFY="false" UID="45" VALCODE="0">51岁</Area>  科室：<Area ID="HZKS" MODIFY="false" UID="46" VALCODE="0">放疗科住院</Area>  床号： <Area ID="CH" MODIFY="false" UID="47" VALCODE="0">FLK66</Area> </Phase><Phase ID="ZD" PAGE="1">一、诊断：1.临床诊断：<Area ID="RYZD" MODIFY="false" UID="48" VALCODE="0"> 脑胶质瘤 </Area>
+          2.病理诊断：<Area ID="BLZD" MODIFY="false" UID="49" VALCODE="0">脑胶质瘤  </Area></Phase><Phase ID="EMR.CUSTOME.YS.HLZQGZS" PAGE="1">
+二、拟行化疗方案：<Area ID="NXHLFA" MODIFY="false" UID="50" VALCODE="0"> 替莫唑胺 </Area>
+三、拟行化疗方法：<Area ID="NXHLFF" MODIFY="false" UID="51" VALCODE="0"> 口服 </Area>
+四、化疗的重要性：化疗是一种治疗恶性肿瘤的重要方法，为目前治疗癌症的三大有效措施之一。化疗不但能根治某些恶性肿瘤，而且与手术、放疗合理配合使用后，对目前大多数恶性肿瘤均能起到延长患者生存期，改善生存质量的作用。对于较晚期癌症患者，化疗也是非常重要的姑息治疗手段。
+五、化疗过程中可能出现的不良反应，并发症和其它意外情况，严重时危及生命：
+1.一般毒性：听力减退，脱发，色素沉着，指甲变形，皮疹，黏膜炎，粘膜溃疡，发热，血栓性静脉炎症，局部组织或器官坏死，流感样症状，放射反应重现，电解质紊乱，过敏反应（急、慢性过敏反应），手足综合症等。
+2.消化系统毒性：食欲减退，恶心，呕吐，腹泻，便秘，腹痛，肝功能损害，胰腺炎等。
+3.血液系统毒性：由于骨髓抑制导致白细胞下降，血小板下降，甚至全血细胞下降，局部或全身出血性改变，继发感染等。
+4.泌尿系统毒性：血尿，肾功能损害等。
+5.心血管系统毒性：心率失常，心肌缺血，心功能不全，低血压等。
+6.呼吸系统毒性：肺纤维化，通气不良，肺功能不全等。
+7.神经系统毒性：周围神经毒性及其中枢神经系统毒性等。
+8.内分泌系统毒性：各类内分泌功能紊乱，肾上腺皮质功能减退，低血糖，高血糖，骨质疏松等。
+9.免疫功能抑制。
+10.穿孔和梗阻：可因为敏感药物或疾病本身所致。
+11.远期致畸，致癌作用。
+12.治疗后仍然存在肿瘤不能控制及复发转移的可能。
+13.难以预料的其他意外情况。
+</Phase><Phase ID="QM" PAGE="1">（副）主任医师 <Area ID="QM_ZZYS" MODIFY="false" UID="52" VALCODE="0">  </Area>  负责谈话医师 <Area ID="QM_FZTHYS" MODIFY="false" UID="53" VALCODE="0">  </Area>   <Area ID="QM_ZRYS_RQ" MODIFY="false" UID="54" VALCODE="0">年      月      日</Area></Phase><Phase ID="EMR.CUSTOME.YS.HLZQGZS" PAGE="1">
+------------------------------------------------------------------------在签署这份化疗告知书之前，作为患者本人（患者委托人），医师已对我做了充分的，详细的讲解，我已经对上述化疗的不良反应，并发症和其他意外情况全部知晓，经过充分协商、考虑，同意实施化疗，签字为证。
+</Phase><Phase ID="QM" PAGE="1">  患者本人  <Area ID="QM_HZ" MODIFY="false" UID="55" VALCODE="0">    </Area>     患者委托人  <Area ID="QM_WTR" MODIFY="false" UID="56" VALCODE="0">  </Area>     <Area ID="QM_HZ_RQ" MODIFY="false" UID="57" VALCODE="0">年     月      日</Area>  </Phase></Data>

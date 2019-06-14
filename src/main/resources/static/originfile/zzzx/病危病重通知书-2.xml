@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="HZXX" PAGE="1">科别：<Area ID="KB" MODIFY="true" UID="28" VALCODE="0">ICU  </Area>         住院号：<Area ID="ZYH" MODIFY="true" UID="29" VALCODE="0">501213923</Area>         床号：<Area ID="CH" MODIFY="false" UID="30" VALCODE="0">icu18</Area>  姓名：<Area ID="HZXM" MODIFY="false" UID="31" VALCODE="0">张梦雨</Area>         性别：<Area ID="HZXB" MODIFY="false" UID="32" VALCODE="0">女</Area>           年龄：<Area ID="HZNL" MODIFY="false" UID="33" VALCODE="0">14岁</Area></Phase><Phase ID="EMR.CUSTOME.YS.BWTZS" PAGE="1">患者单位或住址： <Area ID="ZZ" MODIFY="true" UID="34" VALCODE="0">河南省商丘市柘城县</Area>目前诊断： <Area ID="MQZD" MODIFY="false" UID="35" VALCODE="0">先天性心脏病:房间隔缺损，动脉导管未闭，三尖瓣重度关闭不全，肺动脉高压，心功能II级  </Area>危及生命原因：<Area ID="WJSMYY" MODIFY="false" UID="36" VALCODE="0"> 患者今日全麻体外循环下“房间隔缺损修补术+动脉导管未闭缝闭术”，目前病情危重，随时可能出现恶性心律失常，心力衰竭，突发心脏骤停，心脑血管意外，休克，多脏器功能不全，严重水、电解质、酸碱平衡紊乱等，交代病情，表示知情。 </Area>        患者现病情危重正接受抢救，特通知患者家属及关系人。
+
+
+          签收人:   <Area ID="QM_QSR" MODIFY="false" UID="37" VALCODE="0">  </Area>               与患者关系: <Area ID="YHZGX" MODIFY="false" UID="39" VALCODE="0">  </Area>
+
+
+          发出人:   <Area ID="QM_FCR" MODIFY="false" UID="38" VALCODE="0">  </Area>                </Phase><Phase ID="QM" PAGE="1"> 住院医师: <Area ID="QM_ZYYS" MODIFY="false" UID="40" VALCODE="0">  </Area>
+
+                                    主任/主治医师: <Area ID="QM_SJYSQM" MODIFY="false" UID="41" VALCODE="">  </Area></Phase><Phase ID="EMR.CUSTOME.YS.BWTZS" PAGE="1">
+
+
+
+
+          本通知于:   <Area ID="TZSJ" MODIFY="true" UID="42" VALCODE="0">2018年11月 12日 16时 47分</Area> 发出</Phase></Data>

@@ -1,0 +1,10 @@
+visits.anesthesia_record.sub_item
+        visits.inspection_report.sub_inspection
+        visits.ultrasonic_diagnosis_report.sub_item
+        visits.electrocardiogram_report.sub_item
+        visits.electrocardiographic_report.sub_item
+        visits.lung_functional_exam.sub_item
+        visits.bone_marrow_blood_tests_report.sub_test
+        visits.urea_breath_test_report.subinspection_item
+        visits.medical_exam_report.subitem
+        visits.nursing_record.measure_item

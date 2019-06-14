@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data>
+    <Phase ID="HZXX" PAGE="1">姓名：<Area ID="HZXM" MODIFY="false" UID="12" VALCODE="">许树兰</Area>性别：<Area ID="HZXB" MODIFY="false" UID="13" VALCODE="">女</Area>年龄：<Area ID="HZNL" MODIFY="false" UID="14" VALCODE="">89岁</Area>住院号:<Area ID="ZYH" MODIFY="true" UID="23" VALCODE="">500809746</Area>籍贯： <Area ID="JG" MODIFY="false" UID="15" VALCODE="">河南省周口市</Area>
+        住址：<Area ID="ZZ" MODIFY="false" UID="16" VALCODE="">河南省郑州市国棉三厂绿化西街53号楼</Area>
+        入院日期：<Area ID="RYRQ" MODIFY="false" UID="17" VALCODE="">2017.4.30</Area>
+        出院日期：<Area ID="CYRQ" MODIFY="true" UID="18" VALCODE="">2017.5.18</Area>
+        出院诊断：<Area ID="CYZD" MODIFY="true" UID="19" VALCODE="">1.冠状动脉粥样硬化性心脏病 急性冠脉综合征 心功能不全 心功能Ⅳ级（NYHA分级）双侧胸腔积液，2.感染性休克；3.泌尿系感染；4.电解质紊乱:高钾血症、高钠血症；5.肝损害;6.肾功能不全；7.凝血功能紊乱；8.脂肪肝；9.胆囊结石；10高脂血症；11.2型糖尿病；12.代谢性酸中毒合并呼吸性碱中毒，13.高同型半胱氨酸血症；14.低T3综合症；15.高尿酸血症；16.泌尿系感染；17.高乳酸血症，18.低蛋白血症，19.贫血,20.双肾血管硬化，21.双肾结石；22.高钠血症；23.乳酸酸中毒；24.社区获得性肺炎</Area>
+    </Phase>
+    <Phase ID="EMR.CUSTOME.YS.CYZM" PAGE="1">
+        出院医嘱：<Area ID="CYYZ" MODIFY="true" UID="20" VALCODE="">死亡</Area>
+        <Area ID="JZKS" MODIFY="true" UID="21" VALCODE="">CCU</Area>
+        科：<Area ID="QM_YSQM" MODIFY="true" UID="22" VALCODE="">住院</Area>
+        医师牛金朵 盖章: <Area ID="QM_YSQM_RQ" MODIFY="false" UID="11" VALCODE="">年 月 日</Area>
+    </Phase>
+</Data>

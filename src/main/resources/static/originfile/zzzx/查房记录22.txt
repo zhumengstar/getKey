@@ -1,0 +1,1 @@
+load data  local inpath '/home/hadoop/soft/zh_data/0520result.txt' into 20180801emrv3_1_5_3_clean.pat_info

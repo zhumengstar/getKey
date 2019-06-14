@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="HZXX" PAGE="1">姓名: <Area ID="HZXM" MODIFY="false" UID="32" VALCODE="0">李彩红</Area>  性别: <Area ID="HZXB" MODIFY="false" UID="31" VALCODE="0">女</Area>  年龄: <Area ID="HZNL" MODIFY="false" UID="30" VALCODE="0">49岁</Area>  住院号: <Area ID="ZYH" MODIFY="false" UID="29" VALCODE="0">501204998</Area>  科别：<Area ID="KB" MODIFY="false" UID="27" VALCODE="0">  </Area>     </Phase><Phase ID="EMR.CUSTOME.YS.SXTYS" PAGE="1">
+输血目的: <Area ID="SXMD" MODIFY="false" UID="16" VALCODE="0"> 纠正失血 </Area>           输血史: <Area ID="SXS" MODIFY="false" UID="17" VALCODE="0">  </Area>  孕 <Area ID="YUN" MODIFY="false" UID="18" VALCODE="0">  </Area>  产 <Area ID="CHAN" MODIFY="false" UID="19" VALCODE="0">  </Area> 
+输血成分: <Area ID="SXCF" MODIFY="false" UID="20" VALCODE="0"> 悬浮红细胞6u  血浆400ml </Area>           临床诊断: <Area ID="LCZD" MODIFY="true" UID="21" VALCODE="0">消化道出血 </Area>
+输血前检查：ALT  <Area ID="SXQJC_ATL" MODIFY="false" UID="33" VALCODE="0">  </Area> U/L ;HBsAg <Area ID="SXQJC_HBSAG" MODIFY="false" UID="34" VALCODE="0">  </Area>  ;Anti-HBs <Area ID="SXQJC_ANTIHBS" MODIFY="false" UID="35" VALCODE="0">  </Area>    ;HBeAg <Area ID="SXQJC_HBEAG" MODIFY="false" UID="36" VALCODE="0">  </Area>  ;
+Anti-HBe <Area ID="SXQJC_ANTIHBE" MODIFY="false" UID="37" VALCODE="0">  </Area>   ;Anti-HBc<Area ID="SXQJC_ANTIHBC" MODIFY="false" UID="38" VALCODE="0">  </Area>     ;Anti-HCV<Area ID="SXQJC_ANTIHCV" MODIFY="false" UID="39" VALCODE="0">  </Area>     ;Anti-HIV1/2 <Area ID="SXQJC_ANTIHIV" MODIFY="false" UID="40" VALCODE="0">  </Area>    ;
+梅毒<Area ID="SXQJC_MD" MODIFY="false" UID="41" VALCODE="0">  </Area>    ;        输血治疗包括输全血、成分血，是临床治疗的重要措施之一，是临床抢救急危重患者生命行之有效的手段。
+    但输血存在一定风险，可能发生输血反应及感染经血传播疾病
+    虽然我院使用的血液，均已按卫生部有关规定进行检测，但由于当前科技水平的限制，输血仍有某些不能预测或不能防止的输血反应和输血转染病。输血时可能发生的主要情况如下：
+    1.过敏反应                      2.发热反应
+    3.感染肝炎(乙肝，丙肝等)        4.感染艾滋病、梅毒
+    5.感染疟疾                     6.巨细胞病毒或EB病毒感染
+    7.输血引起的其他疾病
+
+    在您及家属或监护人了解上述可能发生的情况后，如同意输血治疗，请在下面签字     拟单次输血  <Area ID="NDCSX" MODIFY="false" UID="45" VALCODE="0">R</Area>                 拟多次输血 <Area ID="NDCSX2" MODIFY="false" UID="46" VALCODE="2">□</Area>
+</Phase><Phase ID="QM" PAGE="1">
+    受血者(家属/监护人)签字：<Area ID="QM_SXZ" MODIFY="false" UID="22" VALCODE="0">    </Area> ， <Area ID="QM_SXZ_RQ" MODIFY="false" UID="24" VALCODE="0">2018年 10月16日</Area>
+    医    师     签     字： <Area ID="QM_YSQM" MODIFY="false" UID="42" VALCODE="0">  </Area> ， <Area ID="QM_YSQM_RQ" MODIFY="false" UID="25" VALCODE="0">2018.10.16</Area></Phase><Phase ID="EMR.CUSTOME.YS.SXTYS" PAGE="1">
+
+    备注：</Phase><Phase ID="QM" PAGE="1"><Area ID="BEIZ" MODIFY="false" UID="26" VALCODE="0">  </Area></Phase></Data>

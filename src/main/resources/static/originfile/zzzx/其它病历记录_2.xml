@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="EMR.CUSTOME.YS.SSFXPGD">郑州大学附属郑州中心医院
+郑  州  市  中  心  医  院
+手  术  风  险  评  估  表</Phase><Phase ID="HZXX">科别：<Area ID="KB">  </Area>  患者姓名：<Area ID="HZXM">王品</Area>  性别：<Area ID="HZXB">男</Area>  年龄：<Area ID="HZNL">26岁</Area>  住院号： <Area ID="ZYH">501000044</Area> 手术日期：<Area ID="SSSJ">  </Area>  手术名称：  <Area ID="SSMC">  </Area> </Phase><Phase ID="EMR.CUSTOME.YS.SSFXPGD">1、手术切口清洁程度2、麻醉分级（ASA分级）3、手术持续时间Ⅰ类手术切口（清洁手术）<Area ID="SSQKQJCD_YLSSQK">□</Area>1P1：正常的患者；除局部病变外，无系统性疾病<Area ID="MZFJ_ZCDHZ">□</Area>0T1：手术在3小时内完成<Area ID="SSCXSJ_SXSN">□</Area>0手术野无污染；手术切口周边无炎症；
+患者没有进行气道、食道和/ 或尿道插管；
+患者没有意识障碍。P2：患者有轻微的临床症状；有轻度或中度系统性疾病<Area ID="MZFJ_HZYQWDLCZZ">□</Area>0T2：完成手术，超过3小时<Area ID="SSCXSJ_CGSXS">□</Area>0Ⅱ类手术切口（相对清洁手术）<Area ID="SSQKQJCD_ELSSQK">□</Area>0P3：有严重系统性疾病，日常活动受限，但未丧失工作能力<Area ID="MZFJ_YYZXTXJB">□</Area>1随访：
+  切口愈合与感染情况：
+
+
+  切口甲级愈合 <Area ID="SF_QKYHYGRQK_QKJJYH">□</Area>上、下呼吸道，上、下消化道，泌尿生殖道或经以上器官的手术；
+患者进行气道、食道和/或尿道插管；
+患者病情稳定；
+行胆囊、阴道、阑尾、耳鼻手术的患者。P4：有严重系统性疾病，已丧失工作能力，威胁生命安全<Area ID="MZFJ_YYZXTXJB1">□</Area>1P5:病情危重，生命难以维持的濒死病人。<Area ID="MZFJ_BQWZ">□</Area>1切口感染
+  
+     浅层感染  <Area ID="SF_QKGR_QCGR">□</Area>
+
+     深层感染  <Area ID="SF_QKGR_SCGR">□</Area>
+
+在与评价项目对应的框内
+“□”打钩“√”后，分值相加即可完成！Ⅲ类手术切口（清洁-污染手术）<Area ID="SSQKQJCD_SLSSQK">□</Area>1P6：脑死亡的患者<Area ID="MZFJ_NSWDHZ">□</Area>1开放、新鲜且不干净的伤口；
+前次手术后感染的切口；
+手术中需采取消毒措施的切口4、手术类别
+
+1.浅层组织手术<Area ID="SSLB_QCZZSS">□</Area>Ⅳ类手术切口（污染手术）<Area ID="SSQKQJCD_SILSSQK">□</Area>12.深部组织手术<Area ID="SSLB_SBZZSS">□</Area>严重的外伤，手术切口有炎症、组织坏死，或有内脏引流管。3.器官手术<Area ID="SSLB_QGSS">□</Area>急诊手术<Area ID="JZSS">□</Area>4.腔隙手术<Area ID="SSLB_QXSS">□</Area>手术医师签名：<Area ID="QM_SSYS">  </Area>  手术室护士签名：<Area ID="QM_SSSHS">  </Area>
+麻醉医师签名：<Area ID="QM_MZYS">  </Area>手术风险评估：手术切口清洁程度（ <Area ID="SSFXPG_SSQKQJCD">  </Area> 分）+麻醉ASA分级（ <Area ID="SSFXPG_MZASAFJ">  </Area> 分）+手术持续时间（ <Area ID="SSFXPG_SSCXSJ">  </Area> 分）=<Area ID="SSFXPG_ZF">  </Area>分，
+NNIS分级：0----<Area ID="NNISFJ1">□</Area> 1----<Area ID="NNISFJ2">□</Area> 2----<Area ID="NNISFJ3">□</Area> 3----<Area ID="NNISFJ4">□</Area></Phase></Data>

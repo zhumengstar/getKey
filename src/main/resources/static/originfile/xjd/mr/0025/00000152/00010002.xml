@@ -64,7 +64,7 @@
                 <cell props="left-attach:3; right-attach:4; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1" draw-right="1" draw-top="1" left-pad="0" right-pad="8" fill-style="0" fill-bgcolor="16777215">
                     <p props="text-align:left; line-height:10; margin-left:0; margin-right:0; margin-indent:0">
                         <c props="text-type:normal; font-family:宋体; font-size:16" name="" code="" codeSystem="">床号:</c>
-                        <c props="text-type:micro; font-family:宋体; font-size:16" name="床号" code="" codeSystem="">80370重6</c>
+                        <c props="text-type:micro; font-family:宋体; font-size:16" name="床号" code="" codeSystem="">803706</c>
                     </p>
                 </cell>
                 <cell props="left-attach:4; right-attach:5; top-attach:0; bot-attach:1" draw-bot="1" draw-left="1" draw-right="1" draw-top="1" left-pad="0" right-pad="8" fill-style="0" fill-bgcolor="16777215">

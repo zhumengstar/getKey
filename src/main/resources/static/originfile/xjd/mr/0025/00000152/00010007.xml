@@ -100,7 +100,7 @@
             </p>
             <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
                 <c props="text-type:fix; font-family:宋体; font-size:16" name="" code="" codeSystem="" elem-style="normal">5、患方配合事宜：</c>
-                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">应按照我们的入院患者教育及本次沟通内容积极配合诊疗。</c>
+                <c props="text-type:normal; font-family:宋体; font-size:-16" name="" code="" codeSystem="">应按照我们的入院患者教育及本次沟通积极配合诊疗。</c>
             </p>
             <p props="text-align:left; line-height:15; margin-left:0; margin-right:0; margin-indent:0">
                 <c props="text-type:fix; font-family:宋体; font-size:16" name="" code="" codeSystem="" elem-style="normal">6、诊疗小组成员：</c>

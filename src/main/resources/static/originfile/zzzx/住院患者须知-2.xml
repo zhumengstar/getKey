@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Data><Phase ID="HZXX" PAGE="1">姓名：<Area ID="HZXM" MODIFY="false" UID="6" VALCODE="">王忠孝</Area>  性别:<Area ID="HZXB" MODIFY="false" UID="8" VALCODE="">男</Area>  年龄:<Area ID="HZNL" MODIFY="false" UID="10" VALCODE="">74岁</Area>  科室:<Area ID="HZKS" MODIFY="false" UID="12" VALCODE="">肿瘤科住院</Area>  住院号:<Area ID="ZYH" MODIFY="false" UID="14" VALCODE="">501220529</Area>                      
+尊敬的病友/家属：
+        您好！患者入住我科后，我们一直积极治疗与护理，现患者烦躁，为避免患者出现坠床、管道滑脱等意外情况，从而给患者带来不必要的损害，延长病程，我们决定间断给予患者约束带应用，应用约束带期间，患者可能会有不适，会出现皮肤勒伤等意外，特予以告知。
+     我们也将采取相关的措施，并希望得到您的配合。
+                                 
+
+      
+                                 病区 :<Area ID="HZXX" MODIFY="true" UID="16" VALCODE="0">肿瘤科</Area></Phase><Phase ID="CKZYHZXZ" PAGE="1">
+                               告知日期:<Area ID="TMP_ID_2" MODIFY="true" UID="2" VALCODE="">2018</Area>年<Area ID="TMP_ID_3" MODIFY="true" UID="3" VALCODE="">11</Area>月<Area ID="TMP_ID_4" MODIFY="true" UID="4" VALCODE="">23</Area>日
+                                 患者签名  </Phase><Phase ID="EMR.CUSTOME.HL.EKHZXZ" PAGE="1"><Area ID="QM_HZQM" MODIFY="false" UID="20" VALCODE="">  </Area></Phase><Phase ID="CKZYHZXZ" PAGE="1">               </Phase></Data>
